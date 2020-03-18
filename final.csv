@@ -1,0 +1,455 @@
+sofifa_id,image_url,short_name,long_name,club,nationality,overall,growth,value_eur,age,wage_eur,release_clause_eur,pace,shooting,passing,dribbling,defending,physic,attacking_overall,skill_overall,movement_overall,power_overall,mentality_overall,defending_overall,Number
+20801,https://cdn.sofifa.org/players/10/19/20801.png,Cristiano Ronaldo,Cristiano Ronaldo dos Santos Aveiro,Juventus,Portugal,94,0,77000000,33,405000,127100000,90,93,81,89,35,79,87,83.2,86.6,90,74.83333333,27.33333333,1
+158023,https://cdn.sofifa.org/players/10/19/158023.png,L. Messi,Lionel Andr_s Messi Cuccittini,FC Barcelona,Argentina,94,0,110500000,31,565000,226500000,88,91,88,96,32,61,83.6,93.4,91.6,75.6,71.5,29,2
+192985,https://cdn.sofifa.org/players/10/19/192985.png,K. De Bruyne,Kevin De Bruyne,Manchester City,Belgium,91,1,102000000,27,355000,196400000,77,86,92,87,60,78,81,87.2,80.2,82,80.66666667,58.66666667,3
+155862,https://cdn.sofifa.org/players/10/19/155862.png,Sergio Ramos,Sergio Ramos Garc_a,Real Madrid,Spain,91,0,51000000,32,380000,104600000,75,63,71,71,91,84,72.2,71.4,76,78.8,72.83333333,90.66666667,4
+176580,https://cdn.sofifa.org/players/10/19/176580.png,L. Su_rez,Luis Alberto Su_rez D_az,FC Barcelona,Uruguay,91,0,80000000,31,455000,164000000,80,90,79,88,52,85,83.6,82.2,83.8,82.6,79,48.33333333,5
+177003,https://cdn.sofifa.org/players/10/19/177003.png,L. Modri_,Luka Modri_,Real Madrid,Croatia,91,0,67000000,32,420000,137400000,76,76,90,91,70,67,76.4,86.8,85.8,75.2,80.33333333,69.66666667,6
+183277,https://cdn.sofifa.org/players/10/19/183277.png,E. Hazard,Eden Hazard,Chelsea,Belgium,91,0,93000000,27,340000,172100000,91,82,86,94,35,67,79,86.8,92.2,73,74.66666667,27.66666667,7
+182493,https://cdn.sofifa.org/players/10/19/182493.png,D. God_n,Diego God_n,Atl_tico Madrid,Uruguay,90,0,44000000,32,125000,90200000,68,48,65,62,89,84,63,59.8,66.6,71.4,68,89.33333333,8
+182521,https://cdn.sofifa.org/players/10/19/182521.png,T. Kroos,Toni Kroos,Real Madrid,Germany,90,0,76500000,28,355000,156800000,67,82,89,82,74,69,78.4,86.4,72.8,71.4,77.33333333,73,9
+188545,https://cdn.sofifa.org/players/10/19/188545.png,R. Lewandowski,Robert Lewandowski,FC Bayern M_nchen,Poland,90,0,77000000,29,205000,127100000,78,89,75,85,41,82,82,80.4,80.2,83.6,76.83333333,31.66666667,10
+211110,https://cdn.sofifa.org/players/10/19/211110.png,P. Dybala,Paulo Bruno Exequiel Dybala,Juventus,Argentina,89,5,89000000,24,205000,153500000,85,85,84,91,28,66,81.8,87,86.4,78,70.16666667,21,11
+197781,https://cdn.sofifa.org/players/10/19/197781.png,Isco,Francisco Rom_n Alarc_n Su_rez,Real Madrid,Spain,89,3,83000000,26,325000,176400000,72,81,85,93,61,62,73.8,87,80,70.2,76,58.33333333,12
+202126,https://cdn.sofifa.org/players/10/19/202126.png,H. Kane,Harry Kane,Tottenham Hotspur,England,89,3,86000000,24,205000,165600000,70,90,79,80,47,83,83.2,78.4,74.6,84.8,77.16666667,43.33333333,13
+194765,https://cdn.sofifa.org/players/10/19/194765.png,A. Griezmann,Antoine Griezmann,Atl_tico Madrid,France,89,1,78000000,27,145000,165800000,86,86,81,89,50,70,85.4,82.8,86.6,79,72.83333333,48.66666667,14
+215914,https://cdn.sofifa.org/players/10/19/215914.png,N. Kant_,N'Golo Kant_,Chelsea,France,89,1,63000000,27,225000,121300000,80,66,77,81,87,84,65.8,67.6,85.4,77.8,78.5,88.66666667,15
+138956,https://cdn.sofifa.org/players/10/19/138956.png,G. Chiellini,Giorgio Chiellini,Juventus,Italy,89,0,27000000,33,215000,44600000,69,46,56,58,91,82,55.8,53,65.6,72.8,65.33333333,92,16
+153079,https://cdn.sofifa.org/players/10/19/153079.png,S. Ag_ero,Sergio Leonel Ag_ero del Castillo,Manchester City,Argentina,89,0,64500000,30,300000,119300000,84,89,76,89,28,73,80.6,79,86.8,80,72.83333333,20.66666667,17
+168542,https://cdn.sofifa.org/players/10/19/168542.png,David Silva,David Josu_ Jim_nez Silva,Manchester City,Spain,89,0,51500000,32,275000,95300000,66,74,87,90,50,60,76.4,84.2,80.4,67.6,75.16666667,45.33333333,18
+178603,https://cdn.sofifa.org/players/10/19/178603.png,M. Hummels,Mats  Hummels,FC Bayern M_nchen,Germany,89,0,51500000,29,165000,85000000,65,58,76,72,90,76,69.6,70.4,68.2,68.2,75.83333333,90.33333333,19
+190460,https://cdn.sofifa.org/players/10/19/190460.png,C. Eriksen,Christian  Dannemann Eriksen,Tottenham Hotspur,Denmark,88,3,73500000,26,205000,141500000,74,82,89,86,53,64,77.4,87,79.2,74.6,71.83333333,46,20
+195864,https://cdn.sofifa.org/players/10/19/195864.png,P. Pogba,Paul Pogba,Manchester United,France,88,3,73000000,25,255000,140500000,75,79,86,85,69,87,79.6,86.6,73.6,87,80.5,68.33333333,21
+200145,https://cdn.sofifa.org/players/10/19/200145.png,Casemiro,Carlos Henrique Venancio Casimiro,Real Madrid,Brazil,88,3,61500000,26,285000,130700000,62,69,75,72,87,88,65,72.4,67.2,85.8,78.33333333,88.33333333,22
+189242,https://cdn.sofifa.org/players/10/19/189242.png,Coutinho,Philippe Coutinho Correia,FC Barcelona,Brazil,88,1,69500000,26,340000,147700000,81,81,86,91,45,64,73.4,88.2,86.4,75,69,46.33333333,23
+198710,https://cdn.sofifa.org/players/10/19/198710.png,J. Rodr_guez,James David Rodr_guez Rubio,FC Bayern M_nchen,Colombia,88,1,69500000,26,315000,,72,86,88,86,50,67,82.8,86.6,77.6,74,76,45.66666667,24
+209331,https://cdn.sofifa.org/players/10/19/209331.png,M. Salah,Mohamed  Salah Ghaly,Liverpool,Egypt,88,1,69500000,26,255000,133800000,92,84,79,89,45,72,76.4,78.4,91,76.4,73.66666667,40.66666667,25
+167664,https://cdn.sofifa.org/players/10/19/167664.png,G. Higua_n,Gonzalo Gerardo Higua_n,Milan,Argentina,88,0,57000000,30,245000,,73,87,70,83,31,74,81,72.8,75.2,80,65.33333333,25,26
+173731,https://cdn.sofifa.org/players/10/19/173731.png,G. Bale,Gareth Frank Bale,Real Madrid,Wales,88,0,60000000,28,355000,123000000,95,88,84,85,58,76,85.4,85.8,84.2,85,75,53.66666667,27
+176676,https://cdn.sofifa.org/players/10/19/176676.png,Marcelo,Marcelo Vieira da Silva J_nior,Real Madrid,Brazil,88,0,43000000,30,285000,88200000,82,71,83,90,81,82,74,82,85,79.6,80.16666667,82,28
+189511,https://cdn.sofifa.org/players/10/19/189511.png,Sergio Busquets,Sergio Busquets i Burgos,FC Barcelona,Spain,88,0,46000000,29,300000,94300000,43,62,79,78,85,80,65.8,75.2,57.8,68.8,80.5,85.33333333,29
+205600,https://cdn.sofifa.org/players/10/19/205600.png,S. Umtiti,Samuel Umtiti,FC Barcelona,France,87,5,57000000,24,205000,121100000,72,64,71,72,88,82,70,70.6,72,81.6,71.16666667,88.33333333,30
+201399,https://cdn.sofifa.org/players/10/19/201399.png,M. Icardi,Mauro Emanuel Icardi Rivero,Inter,Argentina,87,3,64500000,25,130000,114500000,78,85,61,79,36,72,77.2,63,79,79.2,66.83333333,29.66666667,31
+192505,https://cdn.sofifa.org/players/10/19/192505.png,R. Lukaku,Romelu Lukaku,Manchester United,Belgium,87,2,62500000,25,230000,120300000,84,84,76,75,35,87,82,73.8,72,82.2,71.5,30,32
+152729,https://cdn.sofifa.org/players/10/19/152729.png,Piqu_,Gerard Piqu_ Bernab_u,FC Barcelona,Spain,87,0,34000000,31,240000,69700000,55,61,69,65,87,76,68.4,63.6,57.4,67,72.5,87,33
+168651,https://cdn.sofifa.org/players/10/19/168651.png,I. Rakiti_,Ivan Rakiti_,FC Barcelona,Croatia,87,0,46500000,30,260000,95300000,62,84,87,82,72,69,78.4,86.6,68,72.6,78.33333333,72,34
+172871,https://cdn.sofifa.org/players/10/19/172871.png,J. Vertonghen,Jan Vertonghen,Tottenham Hotspur,Belgium,87,0,34000000,31,155000,62900000,63,63,73,72,88,79,67,70.4,66.2,77,75,88.33333333,35
+184941,https://cdn.sofifa.org/players/10/19/184941.png,A. S_nchez,Alexis Alejandro S_nchez S_nchez,Manchester United,Chile,87,0,49500000,29,250000,91600000,82,83,79,89,45,77,79.4,81.8,86,81.8,76.5,39,36
+188567,https://cdn.sofifa.org/players/10/19/188567.png,P. Aubameyang,Pierre-Emerick Aubameyang,Arsenal,Gabon,87,0,50500000,29,220000,96000000,94,84,75,80,37,70,81.2,75.4,84,78,69.5,29.33333333,37
+189332,https://cdn.sofifa.org/players/10/19/189332.png,Jordi Alba,Jordi Alba Ramos,FC Barcelona,Spain,87,0,38000000,29,250000,77900000,93,69,79,83,79,72,74.8,76.2,88.8,72.6,74.33333333,80.33333333,38
+222492,https://cdn.sofifa.org/players/10/19/222492.png,L. San_,Leroy San_,Manchester City,Germany,86,7,62500000,22,195000,128100000,95,81,78,86,38,70,80,77.4,87.8,75.4,68.33333333,34.33333333,39
+201535,https://cdn.sofifa.org/players/10/19/201535.png,R. Varane,Rapha_l Varane,Real Madrid,France,86,6,51500000,25,210000,115900000,84,45,61,64,86,80,55.2,62,70.8,68.2,64,87.33333333,40
+201942,https://cdn.sofifa.org/players/10/19/201942.png,Roberto Firmino,Roberto Firmino Barbosa de Oliveira,Liverpool,Brazil,86,2,54500000,26,195000,104900000,77,83,80,86,61,78,80.6,79,80.4,80.4,77,55.33333333,41
+184432,https://cdn.sofifa.org/players/10/19/184432.png,Azpilicueta,C_sar Azpilicueta Tanco,Chelsea,Spain,86,1,40500000,28,175000,78000000,76,55,78,73,87,77,67,70.8,77,72.4,75.16666667,88,42
+208722,https://cdn.sofifa.org/players/10/19/208722.png,S. Man_,Sadio Man_,Liverpool,Senegal,86,1,52000000,26,195000,100100000,94,80,76,87,42,73,73.8,76.4,90.2,76.4,71.33333333,40.66666667,43
+135507,https://cdn.sofifa.org/players/10/19/135507.png,Fernandinho,Fernando Luiz Rosa,Manchester City,Brazil,86,0,18000000,33,185000,33300000,67,74,78,79,83,79,71.8,76.4,74.2,78.4,76.66666667,83.66666667,44
+171919,https://cdn.sofifa.org/players/10/19/171919.png,Naldo,Ronaldo  Aparecido Rodrigues,FC Schalke 04,Brazil,86,0,10500000,35,42000,17900000,63,69,64,61,87,74,66.4,65.2,58.6,72.6,68.66666667,87,45
+176635,https://cdn.sofifa.org/players/10/19/176635.png,M. _zil,Mesut _zil,Arsenal,Germany,86,0,43500000,29,190000,82700000,70,73,86,85,24,58,75.6,83.4,74.8,63.8,65.16666667,19.66666667,46
+177509,https://cdn.sofifa.org/players/10/19/177509.png,M. Benatia,Medhi Amine El Mouttaqi Benatia,Juventus,Morocco,86,0,30000000,31,160000,49500000,70,45,54,64,87,85,56.8,50.8,66.8,67.4,63.33333333,87,47
+180206,https://cdn.sofifa.org/players/10/19/180206.png,M. Pjani_,Miralem Pjani_,Juventus,Bosnia Herzegovina,86,0,44000000,28,180000,72600000,66,70,86,86,73,69,72.2,87.6,74.4,72.8,78.5,73,48
+181458,https://cdn.sofifa.org/players/10/19/181458.png,I. Peri_i_,Ivan Peri_i_,Inter,Croatia,86,0,43500000,29,120000,74000000,86,80,80,84,62,78,81.2,79,81,82.8,75.83333333,56.66666667,49
+183907,https://cdn.sofifa.org/players/10/19/183907.png,J. Boateng,J_r_me Boateng,FC Bayern M_nchen,Germany,86,0,34500000,29,125000,56900000,73,50,72,65,85,83,63,60.4,67,74.2,69,86.66666667,50
+184344,https://cdn.sofifa.org/players/10/19/184344.png,L. Bonucci,Leonardo Bonucci,Juventus,Italy,86,0,30000000,31,160000,49500000,61,58,69,70,87,80,62.6,69.2,63.6,75.4,73.33333333,85.33333333,51
+189509,https://cdn.sofifa.org/players/10/19/189509.png,Thiago,Thiago Alc_ntara do Nascimento,FC Bayern M_nchen,Spain,86,0,45500000,27,130000,75100000,73,74,84,90,67,63,75,85.8,81.4,72.6,76.66666667,65,52
+189513,https://cdn.sofifa.org/players/10/19/189513.png,Parejo,Daniel Parejo Mu_oz,Valencia CF,Spain,86,0,42500000,29,72000,89300000,47,80,88,79,71,71,77.6,86,62.4,72.4,78.66666667,67,53
+189596,https://cdn.sofifa.org/players/10/19/189596.png,T. M_ller,Thomas M_ller,FC Bayern M_nchen,Germany,86,0,46000000,28,145000,75900000,74,83,80,78,50,71,83,73.8,77.4,78.8,72.66666667,43,54
+190483,https://cdn.sofifa.org/players/10/19/190483.png,Douglas Costa,Douglas Costa de Souza,Juventus,Brazil,86,0,46500000,27,175000,76700000,95,75,81,91,43,65,72.2,82.6,91.6,73.6,70.66666667,39,55
+191043,https://cdn.sofifa.org/players/10/19/191043.png,Alex Sandro,Alex Sandro Lobo Silva,Juventus,Brazil,86,0,36500000,27,160000,60200000,85,65,77,81,82,83,72.8,74.2,82,80.4,74.33333333,83,56
+191202,https://cdn.sofifa.org/players/10/19/191202.png,N. Mati_,Nemanja Mati_,Manchester United,Serbia,86,0,34500000,29,195000,63800000,56,71,79,76,83,83,73.6,76.4,59.6,78.8,76.83333333,81.66666667,57
+192366,https://cdn.sofifa.org/players/10/19/192366.png,N. Otamendi,Nicol_s Hern_n Otamendi,Manchester City,Argentina,86,0,33000000,30,185000,61100000,60,57,63,59,86,80,64.6,56,65,72.8,68.33333333,86,58
+220834,https://cdn.sofifa.org/players/10/19/220834.png,Marco Asensio,Marco Asensio Willemsen,Real Madrid,Spain,85,8,56500000,22,215000,127100000,81,84,83,85,43,60,76,82.8,79,73,66.5,40.33333333,59
+232363,https://cdn.sofifa.org/players/10/19/232363.png,M. _kriniar,Milan _kriniar,Inter,Slovakia,85,7,46500000,23,82000,88400000,72,41,57,61,87,82,54.4,51.6,64,63.6,65.83333333,87.33333333,60
+208421,https://cdn.sofifa.org/players/10/19/208421.png,Sa_l,Sa_l __guez Escl_pez,Atl_tico Madrid,Spain,85,6,52000000,23,77000,117000000,70,77,79,82,78,76,77,74.8,73.4,78.6,74.83333333,77.33333333,61
+209499,https://cdn.sofifa.org/players/10/19/209499.png,Fabinho,F_bio Henrique Tavares,Liverpool,Brazil,85,4,42500000,24,130000,81800000,71,69,78,77,84,84,70,72,72,78,81.66666667,85.33333333,62
+202652,https://cdn.sofifa.org/players/10/19/202652.png,R. Sterling,Raheem Sterling,Manchester City,England,85,3,49000000,23,180000,94300000,93,73,76,88,47,56,67.4,74,91,65.4,62.33333333,53,63
+212622,https://cdn.sofifa.org/players/10/19/212622.png,J. Kimmich,Joshua Kimmich,FC Bayern M_nchen,Germany,85,3,40500000,23,92000,69900000,73,68,83,82,77,73,75.2,77.4,79.8,74.6,73,77.33333333,64
+192774,https://cdn.sofifa.org/players/10/19/192774.png,K. Manolas,Kostas Manolas,Roma,Greece,85,2,37500000,27,96000,66600000,83,18,42,61,86,82,38.6,44,75.4,59.2,54,87.33333333,65
+197445,https://cdn.sofifa.org/players/10/19/197445.png,D. Alaba,David Olatukunbo Alaba,FC Bayern M_nchen,Austria,85,2,38000000,26,110000,65600000,82,73,80,80,81,75,73.8,80.8,80.8,81,77.5,80.66666667,66
+203376,https://cdn.sofifa.org/players/10/19/203376.png,V. van Dijk,Virgil van Dijk,Liverpool,Netherlands,85,2,38500000,26,150000,74100000,71,60,67,70,85,84,61.6,70.2,67,78.6,68.5,85,67
+184087,https://cdn.sofifa.org/players/10/19/184087.png,T. Alderweireld,Toby Alderweireld,Tottenham Hotspur,Belgium,85,1,34000000,29,140000,65500000,62,57,72,65,88,78,61.2,69,64,76,71.33333333,88.66666667,68
+193747,https://cdn.sofifa.org/players/10/19/193747.png,Koke,Jorge Resurrecci_n Merodio,Atl_tico Madrid,Spain,85,1,45000000,26,88000,95600000,69,75,88,82,69,78,73,83.6,75.2,77.8,74.16666667,66.66666667,69
+9014,https://cdn.sofifa.org/players/10/19/9014.png,A. Robben,Arjen Robben,FC Bayern M_nchen,Netherlands,85,0,19500000,34,120000,32200000,79,85,81,88,32,62,76.8,83.8,84.2,72.6,69,27.33333333,70
+139720,https://cdn.sofifa.org/players/10/19/139720.png,V. Kompany,Vincent Kompany,Manchester City,Belgium,85,0,22000000,32,170000,40700000,56,54,65,65,85,81,61.8,62.4,59.2,71,68.83333333,85.33333333,71
+156616,https://cdn.sofifa.org/players/10/19/156616.png,F. Rib_ry,Franck Bilal Rib_ry,FC Bayern M_nchen,France,85,0,17000000,35,87000,28100000,78,76,82,88,30,57,72.4,82.8,83.6,60,68.66666667,27.33333333,72
+164169,https://cdn.sofifa.org/players/10/19/164169.png,Filipe Lu_s,Filipe Lu_s Kasmirski,Atl_tico Madrid,Brazil,85,0,21500000,32,81000,44100000,75,62,78,78,81,79,70.6,77.2,74.6,73,76.5,82.66666667,73
+168609,https://cdn.sofifa.org/players/10/19/168609.png,Miranda,Jo_o Miranda de Souza Filho,Inter,Brazil,85,0,15500000,33,96000,26400000,68,49,60,68,88,76,58.4,56,66.8,67.4,66.5,88.33333333,74
+170890,https://cdn.sofifa.org/players/10/19/170890.png,B. Matuidi,Blaise Matuidi,Juventus,France,85,0,26000000,31,145000,42900000,78,68,77,79,83,83,72.4,70.2,80.4,80.4,76.33333333,85,75
+178518,https://cdn.sofifa.org/players/10/19/178518.png,R. Nainggolan,Radja Nainggolan,Inter,Belgium,85,0,35500000,30,105000,60400000,75,79,78,82,83,83,73.2,77.4,79.2,83.2,80.5,86.33333333,76
+179844,https://cdn.sofifa.org/players/10/19/179844.png,Diego Costa,Diego da Silva Costa,Atl_tico Madrid,Spain,85,0,38500000,29,100000,78900000,75,83,64,76,49,87,76,66.6,69.2,77.8,75.33333333,43.66666667,77
+179846,https://cdn.sofifa.org/players/10/19/179846.png,S. Khedira,Sami Khedira,Juventus,Germany,85,0,33000000,31,160000,54500000,57,76,80,78,81,83,76.6,76.6,62,78.6,80.33333333,79.66666667,78
+180930,https://cdn.sofifa.org/players/10/19/180930.png,E. D_eko,Edin D_eko,Roma,Bosnia Herzegovina,85,0,30500000,32,115000,51900000,66,85,71,75,46,73,78,70.2,61.4,77.4,69,34,79
+181872,https://cdn.sofifa.org/players/10/19/181872.png,A. Vidal,Arturo Vidal,FC Barcelona,Chile,85,0,26000000,31,205000,53300000,57,80,79,77,84,83,78.8,75.8,69.4,83.6,82.5,85,80
+204485,https://cdn.sofifa.org/players/10/19/204485.png,R. Mahrez,Riyad Mahrez,Manchester City,Algeria,85,0,40500000,27,205000,74900000,85,79,81,90,37,59,72.6,83.6,85.8,70.4,68.33333333,31,81
+211117,https://cdn.sofifa.org/players/10/19/211117.png,D. Alli,Bamidele Alli,Tottenham Hotspur,England,84,6,42500000,22,115000,87100000,75,81,78,82,65,78,78.4,75.8,74.4,77.2,79.16666667,61.33333333,82
+212190,https://cdn.sofifa.org/players/10/19/212190.png,N. S_le,Niklas S_le,FC Bayern M_nchen,Germany,84,6,36500000,22,84000,67500000,67,41,52,49,83,82,49,45.2,55.2,67.2,54,83.33333333,83
+218667,https://cdn.sofifa.org/players/10/19/218667.png,Bernardo Silva,Bernardo Mota Veiga de Carvalho e Silva,Manchester City,Portugal,84,6,42500000,23,165000,87100000,78,72,83,89,46,58,72.2,80.8,82.6,63.4,70.5,42.66666667,84
+220793,https://cdn.sofifa.org/players/10/19/220793.png,D. S_nchez,Davinson S_nchez,Tottenham Hotspur,Colombia,84,5,35500000,22,105000,68300000,76,45,55,66,84,82,51.8,51.6,69.2,68.4,61,85.66666667,85
+216460,https://cdn.sofifa.org/players/10/19/216460.png,J. Gim_nez,Jos_ Mar_a Gim_nez de Vargas,Atl_tico Madrid,Uruguay,84,4,34000000,23,63000,72300000,68,45,51,52,86,82,52.2,48.2,62.2,72.8,56,87,86
+199564,https://cdn.sofifa.org/players/10/19/199564.png,Sergi Roberto,Sergio Roberto Carnicer,FC Barcelona,Spain,84,3,31500000,26,185000,66900000,78,63,81,78,80,71,70.8,73.2,75.6,66,71.66666667,82,87
+204963,https://cdn.sofifa.org/players/10/19/204963.png,Carvajal,Daniel Carvajal Ramos,Real Madrid,Spain,84,3,31500000,26,185000,66900000,82,45,73,79,82,78,61.8,69.8,81,66.8,67.33333333,83.66666667,88
+205498,https://cdn.sofifa.org/players/10/19/205498.png,Jorginho,Luiz Frello Filho Jorge,Chelsea,Italy,84,3,38000000,26,155000,73200000,72,64,84,82,69,71,69.6,81,76,67.2,79.83333333,69,89
+198176,https://cdn.sofifa.org/players/10/19/198176.png,S. de Vrij,Stefan de Vrij,Inter,Netherlands,84,2,31500000,26,88000,55900000,68,41,60,66,86,76,50.4,53.2,67.2,69.4,63.16666667,86,90
+186942,https://cdn.sofifa.org/players/10/19/186942.png,I. G_ndo_an,_lkay G_ndo_an,Manchester City,Germany,84,1,35000000,27,175000,67400000,68,74,83,84,69,70,71.8,81.8,75.2,70.4,79.16666667,68.33333333,91
+193301,https://cdn.sofifa.org/players/10/19/193301.png,A. Lacazette,Alexandre Lacazette,Arsenal,France,84,1,36500000,27,165000,72100000,81,82,72,84,40,72,76.8,74.4,83.2,75.4,73.16666667,33.66666667,92
+198329,https://cdn.sofifa.org/players/10/19/198329.png,Rodrigo,Rodrigo Moreno Machado,Valencia CF,Spain,84,1,36500000,27,63000,79400000,90,81,73,82,44,71,79.2,74.6,84.6,78,67.16666667,41.66666667,93
+200104,https://cdn.sofifa.org/players/10/19/200104.png,H. Son,____ ____,Tottenham Hotspur,Korea Republic,84,1,37000000,25,125000,71200000,86,85,76,85,42,68,76.4,77.4,82.4,77,69.33333333,38.33333333,94
+137186,https://cdn.sofifa.org/players/10/19/137186.png,A. Barzagli,Andrea Barzagli,Juventus,Italy,84,0,4200000,37,95000,6900000,68,34,57,64,89,72,46.6,55,66,62,65.66666667,88.66666667,95
+162240,https://cdn.sofifa.org/players/10/19/162240.png,M. Demb_l_,Moussa Sidi Yaya Demb_l_,Tottenham Hotspur,Belgium,84,0,29000000,30,135000,53700000,72,70,77,87,78,82,72,75.6,76.6,77.2,77.33333333,76,96
+162895,https://cdn.sofifa.org/players/10/19/162895.png,Cesc F_bregas,Francesc F_bregas i Soler,Chelsea,Spain,84,0,26500000,31,155000,49000000,55,74,88,80,60,58,80.6,82.6,65.6,66.6,71.83333333,60.33333333,97
+165153,https://cdn.sofifa.org/players/10/19/165153.png,K. Benzema,Karim Benzema,Real Madrid,France,84,0,30000000,30,225000,61500000,76,79,76,81,32,75,78.2,74.6,74.4,75.6,69.5,24.66666667,98
+172879,https://cdn.sofifa.org/players/10/19/172879.png,Sokratis,Sokratis Papastathopoulos,Arsenal,Greece,84,0,23000000,30,140000,43700000,69,51,50,60,84,82,56.4,46.2,68.4,73.2,60.83333333,85.66666667,99
+177610,https://cdn.sofifa.org/players/10/19/177610.png,Javi Mart_nez,Javier Mart_nez Aginaga,FC Bayern M_nchen,Spain,84,0,24000000,29,105000,39600000,51,55,70,64,86,83,65,60.4,57.4,76.2,72.66666667,85.66666667,100
+180403,https://cdn.sofifa.org/players/10/19/180403.png,Willian,Willian Borges da Silva,Chelsea,Brazil,84,0,30500000,29,175000,56400000,88,77,80,86,49,62,64.6,82.8,85.4,69.2,68.5,50.33333333,101
+181783,https://cdn.sofifa.org/players/10/19/181783.png,M. Mand_uki_,Mario Mand_uki_,Juventus,Croatia,84,0,25000000,32,160000,41300000,70,78,71,75,66,85,81.4,66.6,69.2,78.6,79,62.33333333,102
+188377,https://cdn.sofifa.org/players/10/19/188377.png,K. Walker,Kyle Walker,Manchester City,England,84,0,24500000,28,165000,45300000,90,63,75,77,81,80,68.2,74.2,80.2,80.2,72,81.66666667,103
+192883,https://cdn.sofifa.org/players/10/19/192883.png,H. Mkhitaryan,Henrikh Mkhitaryan,Arsenal,Armenia,84,0,30500000,29,160000,58000000,82,78,79,85,52,69,73.6,78,83.4,74.4,74.5,49.66666667,104
+193082,https://cdn.sofifa.org/players/10/19/193082.png,J. Cuadrado,Juan Cuadrado,Juventus,Colombia,84,0,29500000,30,150000,48700000,91,74,77,88,66,69,71,78.2,87,75.6,73.16666667,69,105
+230666,https://cdn.sofifa.org/players/10/19/230666.png,Gabriel Jesus,Gabriel Fernando de Jesus,Manchester City,Brazil,83,9,41000000,21,130000,84100000,86,80,72,87,39,73,74.4,73.4,88.2,76,71.66666667,31.66666667,106
+222737,https://cdn.sofifa.org/players/10/19/222737.png,Malcom,Malcom Filipe Silva de Oliveira,FC Barcelona,Brazil,83,7,36500000,21,155000,82100000,84,79,81,85,27,64,73,80.2,85,73.2,64.66666667,22,107
+207410,https://cdn.sofifa.org/players/10/19/207410.png,M. Kova_i_,Mateo Kova_i_,Chelsea,Croatia,83,6,35000000,24,165000,,79,69,82,86,69,72,68,81,78.2,72.8,73.83333333,69,108
+211300,https://cdn.sofifa.org/players/10/19/211300.png,A. Martial,Anthony Martial,Manchester United,France,83,6,35500000,22,150000,72800000,89,81,73,86,42,72,75.6,74.2,84.8,77.4,69.16666667,37.66666667,109
+213565,https://cdn.sofifa.org/players/10/19/213565.png,T. Lemar,Thomas Lemar,Atl_tico Madrid,France,83,6,35500000,22,64000,79900000,85,76,83,85,59,67,74.8,82.4,84.6,73.6,73.16666667,59,110
+209658,https://cdn.sofifa.org/players/10/19/209658.png,L. Goretzka,Leon Goretzka,FC Bayern M_nchen,Germany,83,5,34000000,23,85000,58700000,83,74,80,81,77,76,74.8,78.8,79.2,75.6,77,75.66666667,111
+212218,https://cdn.sofifa.org/players/10/19/212218.png,A. Laporte,Aymeric  Laporte,Manchester City,France,83,5,29500000,24,125000,56800000,65,50,67,61,85,76,60.6,67.4,62.2,67.2,64.16666667,85,112
+219683,https://cdn.sofifa.org/players/10/19/219683.png,C. Tolisso,Corentin Tolisso,FC Bayern M_nchen,France,83,5,34000000,23,85000,58700000,70,77,79,78,76,81,74,76.6,74.6,83.4,76.66666667,74.66666667,113
+220971,https://cdn.sofifa.org/players/10/19/220971.png,N. Ke_ta,Naby Ke_ta,Liverpool,Guinea,83,5,34000000,23,120000,65500000,68,73,78,88,64,68,67.4,77.6,79.8,68.4,74.16666667,63.66666667,114
+210617,https://cdn.sofifa.org/players/10/19/210617.png,Samu Castillejo,Samuel Castillejo Azuaga,Milan,Spain,83,4,34000000,23,105000,60400000,86,75,81,84,43,52,68.6,80.2,82.8,63.2,65.66666667,37.66666667,115
+213345,https://cdn.sofifa.org/players/10/19/213345.png,K. Coman,Kingsley Coman,FC Bayern M_nchen,France,83,4,34000000,22,85000,58700000,94,76,75,86,25,60,72.6,77.6,88,72.4,59.66666667,20.33333333,116
+224411,https://cdn.sofifa.org/players/10/19/224411.png,Gon_alo Guedes,Gon_alo Manuel Ganchinho Guedes,Valencia CF,Portugal,83,4,34000000,21,39000,74000000,90,79,76,84,36,68,73,76.2,84.8,74.2,70.83333333,29.33333333,117
+201153,https://cdn.sofifa.org/players/10/19/201153.png,Morata,_lvaro Borja Morata Mart_n,Chelsea,Spain,83,3,33000000,25,145000,63500000,82,79,71,80,31,71,79.6,67.2,73.4,76.8,64.83333333,23.66666667,118
+204639,https://cdn.sofifa.org/players/10/19/204639.png,S. Savi_,Stefan Savi_,Atl_tico Madrid,Montenegro,83,3,26000000,27,67000,55300000,58,35,54,57,84,74,50.6,49.2,61.6,59.2,58.16666667,84.33333333,119
+200724,https://cdn.sofifa.org/players/10/19/200724.png,Nacho Fern_ndez,Jos_ Ignacio Fern_ndez Iglesias,Real Madrid,Spain,83,2,24500000,28,180000,52100000,74,37,66,64,81,79,60.4,57.2,71,64,61.16666667,82,120
+53302,https://cdn.sofifa.org/players/10/19/53302.png,D. De Rossi,Daniele De Rossi,Roma,Italy,83,0,8000000,34,80000,13600000,65,63,73,69,85,80,68.6,70.8,69.2,77,76.5,84,121
+178088,https://cdn.sofifa.org/players/10/19/178088.png,Juan Mata,Juan Manuel Mata Garc_a,Manchester United,Spain,83,0,24500000,30,160000,45300000,65,76,84,85,37,50,74.6,83.4,77.8,65,70.83333333,31.33333333,122
+179944,https://cdn.sofifa.org/players/10/19/179944.png,David Luiz,David Luiz Moreira Marinho,Chelsea,Brazil,83,0,17500000,31,130000,32400000,61,65,73,70,82,77,68.8,73.6,64.2,75,74.16666667,81.33333333,123
+208618,https://cdn.sofifa.org/players/10/19/208618.png,Lucas V_zquez,Lucas V_zquez Iglesias,Real Madrid,Spain,83,0,27000000,27,205000,55400000,81,75,82,82,46,67,69.6,79.4,82.2,75.4,66,45.33333333,124
+231443,https://cdn.sofifa.org/players/10/19/231443.png,O. Demb_l_,Ousmane Demb_l_,FC Barcelona,France,82,9,34500000,21,140000,77600000,89,75,76,88,36,55,69.6,77.4,87,65.2,66.66666667,35,125
+230658,https://cdn.sofifa.org/players/10/19/230658.png,Arthur,Arthur Henrique Ramos Oliveira Melo,FC Barcelona,Brazil,82,8,32500000,21,125000,73100000,69,73,79,82,70,69,69.6,74.6,76.2,74.6,76.66666667,70.33333333,126
+210413,https://cdn.sofifa.org/players/10/19/210413.png,A. Romagnoli,Alessio Romagnoli,Milan,Italy,82,7,26500000,23,84000,50400000,66,34,52,65,84,79,44.6,51.8,64.6,67.4,57.33333333,84,127
+213661,https://cdn.sofifa.org/players/10/19/213661.png,A. Christensen,Andreas Christensen,Chelsea,Denmark,82,7,26500000,22,98000,54300000,69,31,63,70,84,72,53.6,54.2,68.4,53,60.5,85,128
+220440,https://cdn.sofifa.org/players/10/19/220440.png,C. Lenglet,Cl_ment Lenglet,FC Barcelona,France,82,7,26500000,23,135000,59600000,73,35,59,66,83,78,47.6,51.4,69.2,65,64.16666667,84,129
+220814,https://cdn.sofifa.org/players/10/19/220814.png,L. Hern_ndez,Lucas Hern_ndez,Atl_tico Madrid,France,82,7,26000000,22,53000,58500000,82,47,68,71,80,78,64.2,57.6,76.2,69,62.33333333,80.33333333,130
+206113,https://cdn.sofifa.org/players/10/19/206113.png,S. Gnabry,Serge Gnabry,FC Bayern M_nchen,Germany,82,6,30500000,22,78000,56400000,91,81,72,86,44,67,72,72.6,87.4,73.2,64.66666667,45.33333333,131
+209989,https://cdn.sofifa.org/players/10/19/209989.png,T. Partey,Thomas Partey,Atl_tico Madrid,Ghana,82,6,25500000,25,59000,57400000,75,67,74,77,80,82,65.4,71.6,70.2,81.2,68.16666667,81,132
+201400,https://cdn.sofifa.org/players/10/19/201400.png,Rafinha,Rafael Alc_ntara do Nascimento,FC Barcelona,Brazil,82,5,29500000,25,165000,62700000,70,76,79,85,69,62,72.4,76.6,76,73.4,69.83333333,69.33333333,133
+202651,https://cdn.sofifa.org/players/10/19/202651.png,Suso,Jes_s Joaqu_n Fern_ndez S_ez,Milan,Spain,82,5,29500000,24,105000,52400000,80,75,82,87,33,54,72,83.4,81.6,69.4,58.16666667,30.33333333,134
+203574,https://cdn.sofifa.org/players/10/19/203574.png,J. Stones,John Stones,Manchester City,England,82,5,25000000,24,115000,48100000,69,36,69,71,83,78,56.2,59,67,62.2,66.16666667,83.33333333,135
+212404,https://cdn.sofifa.org/players/10/19/212404.png,F. Bernardeschi,Federico Bernardeschi,Juventus,Italy,82,5,29500000,24,110000,50900000,83,75,80,86,56,64,71,81,82,70.8,71.83333333,51,136
+225508,https://cdn.sofifa.org/players/10/19/225508.png,E. Bailly,Eric Bailly,Manchester United,Ivory Coast,82,5,25000000,24,115000,48100000,74,42,59,65,82,82,55.6,55.2,69.6,69,65,82,137
+227055,https://cdn.sofifa.org/players/10/19/227055.png,Gelson Martins,Gelson Dany Batalha Martins,Atl_tico Madrid,Portugal,82,5,29500000,23,59000,62700000,94,69,75,86,47,61,70,73,91.6,68.2,69.16666667,45.33333333,138
+231866,https://cdn.sofifa.org/players/10/19/231866.png,Rodri,Rodrigo Hern_ndez Cascante,Atl_tico Madrid,Spain,82,5,29000000,22,59000,61600000,68,69,75,78,76,75,69.2,71.4,71.2,75.2,69.5,74,139
+208670,https://cdn.sofifa.org/players/10/19/208670.png,H. Ziyech,Hakim Ziyech,Ajax,Morocco,82,4,28500000,25,26000,42000000,75,73,86,82,57,67,73.6,84.2,74.6,67.6,75,51.33333333,140
+211320,https://cdn.sofifa.org/players/10/19/211320.png,D. Rugani,Daniele Rugani,Juventus,Italy,82,4,24500000,23,95000,42300000,62,39,53,64,85,75,50.6,51.6,62.6,64.8,57,85,141
+201455,https://cdn.sofifa.org/players/10/19/201455.png,G. Kondogbia,Geoffrey Kondogbia,Valencia CF,France,82,3,27500000,25,46000,59800000,73,73,76,79,83,88,70.2,71.6,74.4,85,75.66666667,83,142
+209297,https://cdn.sofifa.org/players/10/19/209297.png,Fred,Frederico R. de Paula Santos,Manchester United,Brazil,82,3,27500000,25,140000,52900000,78,74,77,82,75,71,70.2,77.4,81.8,76.6,74.16666667,74.33333333,143
+192227,https://cdn.sofifa.org/players/10/19/192227.png,S. Mustafi,Shkodran Mustafi,Arsenal,Germany,82,2,22500000,26,115000,44400000,62,57,64,61,81,77,64,58.8,67,69.4,66,81.33333333,144
+181291,https://cdn.sofifa.org/players/10/19/181291.png,G. Wijnaldum,Georginio Wijnaldum,Liverpool,Netherlands,82,1,25000000,27,130000,48100000,76,72,77,83,72,73,73,77.8,78.2,76.2,75,70.33333333,145
+186561,https://cdn.sofifa.org/players/10/19/186561.png,A. Ramsey,Aaron Ramsey,Arsenal,Wales,82,1,25000000,27,130000,49400000,67,76,79,80,67,74,74,75.8,72.2,75.4,76.83333333,67.66666667,146
+192638,https://cdn.sofifa.org/players/10/19/192638.png,Marcos Alonso,Marcos Alonso Mendoza,Chelsea,Spain,82,1,20500000,27,115000,39500000,73,73,78,78,80,79,73.6,81,70,79.6,73.16666667,80,147
+200949,https://cdn.sofifa.org/players/10/19/200949.png,Lucas,Lucas Rodrigues M. Silva,Tottenham Hotspur,Brazil,82,1,26500000,25,105000,51000000,92,75,75,86,42,64,69.4,77,88.8,70.2,71.16666667,41.66666667,148
+201305,https://cdn.sofifa.org/players/10/19/201305.png,Gabriel Paulista,Gabriel Armando de Abreu,Valencia CF,Brazil,82,1,21000000,27,44000,45700000,73,49,68,65,83,80,62.4,60.2,72.2,69.6,67,83,149
+203551,https://cdn.sofifa.org/players/10/19/203551.png,A. Florenzi,Alessandro  Florenzi,Roma,Italy,82,1,20500000,27,73000,36400000,84,77,78,81,76,76,77.2,77.4,83.4,79,78.33333333,77,150
+207494,https://cdn.sofifa.org/players/10/19/207494.png,J. Lingard,Jesse Lingard,Manchester United,England,82,1,26500000,25,140000,51000000,83,78,76,83,56,66,72.8,75,84.2,72.4,73.83333333,53,151
+158963,https://cdn.sofifa.org/players/10/19/158963.png,L. Biglia,Lucas Rodrigo Biglia,Milan,Argentina,82,0,12500000,32,98000,21300000,65,63,81,81,77,71,68.4,78.6,72.8,70.8,74.5,77.33333333,152
+165229,https://cdn.sofifa.org/players/10/19/165229.png,L. Koscielny,Laurent Koscielny,Arsenal,France,82,0,12500000,32,115000,23800000,65,41,62,64,82,75,55,53.6,66.8,64.2,65.5,82.33333333,153
+167905,https://cdn.sofifa.org/players/10/19/167905.png,A. Valencia,Luis Antonio Valencia Mosquera,Manchester United,Ecuador,82,0,12500000,32,130000,23100000,85,67,76,80,79,79,69.2,73.6,80.4,76,74,79.66666667,154
+170481,https://cdn.sofifa.org/players/10/19/170481.png,E. Garay,Ezequiel Marcelo Garay,Valencia CF,Argentina,82,0,15000000,31,44000,31500000,35,63,66,64,82,79,63.6,67.2,47,74,68.66666667,82,155
+172522,https://cdn.sofifa.org/players/10/19/172522.png,D. Wass,Daniel Wass,Valencia CF,Denmark,82,0,21500000,29,50000,45200000,75,76,82,79,72,73,74.8,81.6,74.8,76.4,72,71,156
+173521,https://cdn.sofifa.org/players/10/19/173521.png,Marcano,Iv_n Marcano Sierra,Roma,Spain,82,0,15000000,31,73000,25500000,68,46,60,60,83,79,57,52.8,65.6,70.6,59.83333333,83,157
+178509,https://cdn.sofifa.org/players/10/19/178509.png,O. Giroud,Olivier Giroud,Chelsea,France,82,0,20000000,31,140000,37000000,47,82,71,73,42,79,79.4,69.6,57.4,78.6,73,31.33333333,158
+179847,https://cdn.sofifa.org/players/10/19/179847.png,F. Fazio,Federico Juli_n Fazio,Roma,Argentina,82,0,15000000,31,73000,25500000,40,41,54,54,85,83,54.6,53,44.8,59,60,82.66666667,159
+183711,https://cdn.sofifa.org/players/10/19/183711.png,J. Henderson,Jordan Brian Henderson,Liverpool,England,82,0,18000000,28,125000,33300000,66,70,83,75,77,78,73.8,78.2,70.6,78,76.16666667,77.33333333,160
+185103,https://cdn.sofifa.org/players/10/19/185103.png,A. Kolarov,Aleksandar Kolarov,Roma,Serbia,82,0,12500000,32,73000,21300000,71,70,81,76,81,81,73.4,80.6,69.6,83,80,81.33333333,161
+186345,https://cdn.sofifa.org/players/10/19/186345.png,K. Trippier,Kieran Trippier,Tottenham Hotspur,England,82,0,18500000,27,99000,34200000,75,58,82,76,79,72,67.4,79.6,76,73,74,79.33333333,162
+187936,https://cdn.sofifa.org/players/10/19/187936.png,S. Nzonzi,Steven N'Kemboanza Mike Christopher Nzonzi,Roma,France,82,0,17000000,29,77000,28900000,50,67,72,70,81,89,67.2,69,49.4,79.6,76.66666667,79,163
+189125,https://cdn.sofifa.org/players/10/19/189125.png,G. Bonaventura,Giacomo Bonaventura,Milan,Italy,82,0,22000000,28,115000,37400000,76,77,82,83,72,71,76.8,80.8,77.6,77.8,75,71.33333333,164
+189505,https://cdn.sofifa.org/players/10/19/189505.png,Pedro,Pedro Eliezer Rodr_guez Ledesma,Chelsea,Spain,82,0,21000000,30,140000,38900000,76,77,77,84,43,56,72.2,75.6,79.2,67.4,67.83333333,37.33333333,165
+191180,https://cdn.sofifa.org/players/10/19/191180.png,J. Pastore,Javier Mat_as Pastore,Roma,Argentina,82,0,21500000,29,84000,36600000,69,75,83,84,56,63,75,81.6,71.6,65.8,75.66666667,51.66666667,166
+191740,https://cdn.sofifa.org/players/10/19/191740.png,Ander Herrera,Ander Herrera Ag_era,Manchester United,Spain,82,0,22000000,28,150000,40700000,71,72,79,80,78,76,70.2,77.2,76.6,71.8,82.33333333,78.66666667,167
+231677,https://cdn.sofifa.org/players/10/19/231677.png,M. Rashford,Marcus Rashford,Manchester United,England,81,8,26500000,20,110000,54300000,92,80,74,83,40,72,74.8,76.8,85.4,75.2,69.33333333,35,168
+204884,https://cdn.sofifa.org/players/10/19/204884.png,B. Mendy,Benjamin Mendy,Manchester City,France,81,6,20500000,23,105000,42000000,82,52,76,78,77,79,59,67.2,76,75.2,72.33333333,79,169
+210514,https://cdn.sofifa.org/players/10/19/210514.png,Jo_o Cancelo,Jo_o Pedro Cavaco Cancelo,Juventus,Portugal,81,6,20500000,24,88000,37900000,88,64,77,81,77,71,67.6,77.4,81.6,73.2,69.5,78.33333333,170
+216267,https://cdn.sofifa.org/players/10/19/216267.png,A. Robertson,Andrew Robertson,Liverpool,Scotland,81,5,20000000,24,91000,38500000,84,59,72,77,77,73,62,65.2,79.6,67.8,69.83333333,78.33333333,171
+201377,https://cdn.sofifa.org/players/10/19/201377.png,J. Murillo,Jeison Fabi_n Murillo Cer_n,Valencia CF,Colombia,81,4,19000000,26,41000,41300000,76,40,59,63,80,80,58.6,49.6,74.6,64.4,64.5,81.66666667,172
+204529,https://cdn.sofifa.org/players/10/19/204529.png,M. Batshuayi,Michy Batshuayi Tunga,Valencia CF,Belgium,81,4,23500000,24,115000,,76,81,59,78,33,72,74.8,61.2,76.8,76.2,63.33333333,28.33333333,173
+197853,https://cdn.sofifa.org/players/10/19/197853.png,S. Aurier,Serge Aurier,Tottenham Hotspur,Ivory Coast,81,3,18500000,25,87000,35600000,78,62,74,77,78,79,69.2,65.2,77.4,75.4,74.5,79,174
+199503,https://cdn.sofifa.org/players/10/19/199503.png,G. Xhaka,Granit Xhaka,Arsenal,Switzerland,81,3,22000000,25,115000,43500000,48,65,79,71,69,76,62.4,75,56.6,69.8,76.33333333,69.33333333,175
+203890,https://cdn.sofifa.org/players/10/19/203890.png,S. Vrsaljko,_ime Vrsaljko,Inter,Croatia,81,3,18000000,26,57000,,80,55,74,75,78,78,65.8,70,75.4,76.2,67.66666667,78.33333333,176
+205362,https://cdn.sofifa.org/players/10/19/205362.png,M. Nastasi_,Matija Nastasi_,FC Schalke 04,Serbia,81,3,18500000,25,36000,32800000,69,32,62,54,82,74,51.8,59.6,68.4,57.4,61.33333333,84.33333333,177
+205452,https://cdn.sofifa.org/players/10/19/205452.png,A. R_diger,Antonio R_diger,Chelsea,Germany,81,3,18500000,25,105000,35600000,73,40,67,63,81,77,56.4,58.2,67,64.4,61.83333333,81.66666667,178
+205923,https://cdn.sofifa.org/players/10/19/205923.png,B. Davies,Ben Davies,Tottenham Hotspur,Wales,81,3,18500000,25,87000,35600000,75,58,76,76,79,75,67.4,69,73.2,68.8,71.5,81,179
+212814,https://cdn.sofifa.org/players/10/19/212814.png,Jo_o M_rio,Jo_o M_rio Naval Costa Eduardo,Inter,Portugal,81,3,22500000,25,71000,39900000,72,69,79,82,64,69,69.6,77,75.2,71.8,73,63,180
+190813,https://cdn.sofifa.org/players/10/19/190813.png,S. El Shaarawy,Stephan El Shaarawy,Roma,Italy,81,2,21500000,25,77000,38200000,87,76,71,84,42,58,71.2,74.6,82.2,66,63.33333333,38,181
+197061,https://cdn.sofifa.org/players/10/19/197061.png,J. Matip,Jo_l Andre Job Matip,Liverpool,Cameroon,81,2,18000000,26,110000,34700000,63,46,68,65,82,77,59.8,58.6,61.4,66.6,66.5,81,182
+189881,https://cdn.sofifa.org/players/10/19/189881.png,C. Smalling,Chris Smalling,Manchester United,England,81,1,16000000,28,130000,30800000,68,47,55,58,81,82,60,50.2,62,62.2,63.33333333,81,183
+193348,https://cdn.sofifa.org/players/10/19/193348.png,X. Shaqiri,Xherdan Shaqiri,Liverpool,Switzerland,81,1,21000000,26,130000,40400000,80,77,80,85,46,70,70,84,83.2,74.2,69.5,44,184
+195086,https://cdn.sofifa.org/players/10/19/195086.png,D. Lovren,Dejan Lovren,Liverpool,Croatia,81,1,16000000,28,115000,30800000,55,40,59,62,81,79,56.6,48,55,65.6,61.16666667,81.66666667,185
+138412,https://cdn.sofifa.org/players/10/19/138412.png,J. Milner,James Philip Milner,Liverpool,England,81,0,13500000,32,120000,25000000,62,70,82,76,76,78,74.8,78.4,70.2,75.2,79.83333333,77.66666667,186
+161956,https://cdn.sofifa.org/players/10/19/161956.png,Borja Valero,Borja Valero Iglesias,Inter,Spain,81,0,11000000,33,74000,18700000,53,69,84,84,66,64,72.8,82.4,68.4,68.8,72.16666667,64.33333333,187
+164468,https://cdn.sofifa.org/players/10/19/164468.png,G. Cahill,Gary Cahill,Chelsea,England,81,0,10000000,32,110000,18500000,47,58,53,59,83,76,56.4,51.2,54.2,69.8,65.66666667,82.66666667,188
+173221,https://cdn.sofifa.org/players/10/19/173221.png,A. Candreva,Antonio Candreva,Inter,Italy,81,0,15500000,31,74000,26400000,78,79,78,81,61,71,72.8,76.6,76.6,71.8,74.16666667,59,189
+176600,https://cdn.sofifa.org/players/10/19/176600.png,K. Gameiro,K_vin Gameiro,Valencia CF,France,81,0,16000000,31,48000,33600000,85,81,75,77,43,68,75,74.4,82.8,76.4,72.66666667,40.66666667,190
+180819,https://cdn.sofifa.org/players/10/19/180819.png,A. Lallana,Adam David Lallana,Liverpool,England,81,0,16500000,30,120000,30500000,69,73,80,82,64,71,74.4,77.6,73.2,71.6,75,62.66666667,191
+183900,https://cdn.sofifa.org/players/10/19/183900.png,D. Perotti,Diego Perotti,Roma,Argentina,81,0,17500000,29,84000,29800000,81,70,78,87,42,62,68.6,76.2,80.6,68.2,70,37,192
+189251,https://cdn.sofifa.org/players/10/19/189251.png,S. Rudy,Sebastian Rudy,FC Schalke 04,Germany,81,0,17500000,28,43000,29800000,67,68,80,80,78,67,69,80.8,74.2,70.8,74.5,77.33333333,193
+199715,https://cdn.sofifa.org/players/10/19/199715.png,Vitolo,V_ctor Mach_n P_rez,Atl_tico Madrid,Spain,81,0,18000000,28,65000,36900000,77,76,78,81,41,76,74.8,77,74.4,76.2,64.66666667,37.33333333,194
+201956,https://cdn.sofifa.org/players/10/19/201956.png,S. San_,Salif San_,FC Schalke 04,Senegal,81,0,15000000,27,38000,25500000,65,49,64,65,82,81,56.2,59,60.6,67.4,66.16666667,79.66666667,195
+235243,https://cdn.sofifa.org/players/10/19/235243.png,M. de Ligt,Matthijs de Ligt,Ajax,Netherlands,80,11,20500000,18,9000,32800000,68,58,66,65,80,82,61,61.8,64.8,76.2,62.83333333,80,196
+234035,https://cdn.sofifa.org/players/10/19/234035.png,Odriozola,_lvaro Odriozola Arzalluz,Real Madrid,Spain,80,8,18500000,22,115000,41600000,81,53,71,73,79,68,64.8,63,79.2,66.2,66.66666667,80.66666667,197
+234153,https://cdn.sofifa.org/players/10/19/234153.png,Carlos Soler,Carlos Soler Barrag_n,Valencia CF,Spain,80,7,21000000,21,31000,48300000,76,74,81,79,62,65,72,78.2,75.4,70.4,69,60.33333333,198
+214997,https://cdn.sofifa.org/players/10/19/214997.png,A. Correa,_ngel Correa,Atl_tico Madrid,Argentina,80,6,20500000,23,51000,46100000,80,80,71,86,54,59,74.2,76.8,82.6,69,62.33333333,51.66666667,199
+220477,https://cdn.sofifa.org/players/10/19/220477.png,M. Caldara,Mattia Caldara,Milan,Italy,80,6,17500000,24,73000,33300000,67,34,46,63,83,75,53.2,45.4,65.6,56,54.66666667,83,200
+227928,https://cdn.sofifa.org/players/10/19/227928.png,N_lson Semedo,N_lson Cabral Semedo,FC Barcelona,Portugal,80,6,17000000,24,115000,38300000,92,57,67,80,73,72,59.4,62.8,87.2,72.8,67.33333333,74.33333333,201
+198784,https://cdn.sofifa.org/players/10/19/198784.png,A. Oxlade-Chamberlain,Alex Oxlade-Chamberlain,Liverpool,England,80,5,19500000,24,94000,37500000,85,73,78,84,66,75,64.8,75.2,83.2,75.8,75.83333333,67.66666667,202
+203747,https://cdn.sofifa.org/players/10/19/203747.png,H_ctor Beller_n,H_ctor Beller_n Moruno,Arsenal,Spain,80,5,16500000,23,85000,32600000,93,51,69,77,75,66,60.6,65,84.4,59,68.5,77.66666667,203
+208333,https://cdn.sofifa.org/players/10/19/208333.png,E. Can,Emre Can,Juventus,Germany,80,5,19500000,24,91000,33600000,71,68,77,77,80,83,68.4,73.8,72.8,80,74.83333333,80.66666667,204
+212623,https://cdn.sofifa.org/players/10/19/212623.png,Santi Mina,Santiago Mina Lorenzo,Valencia CF,Spain,80,5,20000000,22,40000,43500000,79,78,68,80,51,73,74,70,78.2,74.8,67.33333333,47.66666667,205
+215785,https://cdn.sofifa.org/players/10/19/215785.png,K. Bald_,Keita Bald_,Inter,Senegal,80,5,20000000,23,65000,,92,76,72,83,29,70,71,70.8,84,73.6,62.16666667,24.66666667,206
+219809,https://cdn.sofifa.org/players/10/19/219809.png,T. Bakayoko,Ti_mou_ Bakayoko,Milan,France,80,5,17000000,23,85000,,68,48,69,74,78,82,55.4,63.2,66.2,72.2,68.83333333,79,207
+221639,https://cdn.sofifa.org/players/10/19/221639.png,Mariano,Mariano D_az Mej_a,Real Madrid,Dominican Republic,80,5,20000000,24,140000,42500000,85,81,62,75,45,82,70.4,70,80.4,83.8,69.33333333,38.33333333,208
+202335,https://cdn.sofifa.org/players/10/19/202335.png,E. Dier,Eric Dier,Tottenham Hotspur,England,80,4,16500000,24,73000,31800000,65,63,72,65,82,86,65.8,68.2,59.6,79.6,73.16666667,82,209
+208128,https://cdn.sofifa.org/players/10/19/208128.png,H. _alhano_lu,Hakan _alhano_lu,Milan,Turkey,80,4,19500000,24,89000,34600000,71,75,83,84,59,60,71.8,87.2,75,70,70.33333333,58,210
+193352,https://cdn.sofifa.org/players/10/19/193352.png,R. Rodr_guez,Ricardo Rodr_guez,Milan,Switzerland,80,3,15500000,25,81000,27500000,73,67,79,76,78,75,70.8,79.6,73.8,75,76.66666667,78.66666667,211
+207993,https://cdn.sofifa.org/players/10/19/207993.png,S. Kola_inac,Sead Kola_inac,Arsenal,Bosnia Herzegovina,80,3,15500000,25,94000,30600000,72,62,65,70,77,87,66.8,53.6,65.2,77,68,78.66666667,212
+216352,https://cdn.sofifa.org/players/10/19/216352.png,M. Brozovi_,Marcelo Brozovi_,Inter,Croatia,80,3,15500000,25,60000,27500000,70,73,80,80,74,72,70.2,80,72.4,75.6,75.16666667,74.33333333,213
+216409,https://cdn.sofifa.org/players/10/19/216409.png,M. Politano,Matteo Politano,Inter,Italy,80,3,19000000,24,58000,,84,75,74,83,29,50,66.6,75,83.8,62.6,62.83333333,24.33333333,214
+188942,https://cdn.sofifa.org/players/10/19/188942.png,V. Wanyama,Victor Wanyama,Tottenham Hotspur,Kenya,80,2,14500000,27,86000,27900000,58,65,69,73,80,88,66.2,67.4,65.8,78.2,73.33333333,80,215
+170368,https://cdn.sofifa.org/players/10/19/170368.png,E. Lamela,Erik Lamela,Tottenham Hotspur,Argentina,80,1,17500000,26,94000,33700000,75,77,80,82,47,68,75.8,80.6,74.4,71.6,72.83333333,43.66666667,216
+190456,https://cdn.sofifa.org/players/10/19/190456.png,N. Clyne,Nathaniel Edwin Clyne,Liverpool,England,80,1,13500000,27,99000,26000000,78,61,70,77,79,71,64.2,64.6,76.8,71,68.66666667,81.66666667,217
+194957,https://cdn.sofifa.org/players/10/19/194957.png,P. Jones,Phil Jones,Manchester United,England,80,1,14500000,26,115000,27900000,57,53,62,61,80,77,60.8,53,60.4,70.6,64.16666667,80.66666667,218
+200318,https://cdn.sofifa.org/players/10/19/200318.png,M. Uth,Mark Uth,FC Schalke 04,Germany,80,1,17500000,26,42000,31100000,76,84,69,77,34,67,73.4,68.2,75.8,76.4,67,27,219
+219985,https://cdn.sofifa.org/players/10/19/219985.png,M. Vecino,Matias Vecino,Inter,Uruguay,80,1,14500000,26,63000,25700000,71,68,77,81,76,76,70.4,73.8,69.6,75.6,73.33333333,75.33333333,220
+108080,https://cdn.sofifa.org/players/10/19/108080.png,S. Lichtsteiner,Stephan Lichtsteiner,Arsenal,Switzerland,80,0,4200000,34,99000,8000000,71,58,72,76,79,74,66.4,71.2,74.2,72.2,72.66666667,79.33333333,221
+146760,https://cdn.sofifa.org/players/10/19/146760.png,Juanfran,Juan Francisco Torres Bel_n,Atl_tico Madrid,Spain,80,0,5500000,33,53000,11300000,81,58,74,77,76,76,64,72,75.8,68.6,72.33333333,78.66666667,222
+152908,https://cdn.sofifa.org/players/10/19/152908.png,A. Young,Ashley Young,Manchester United,England,80,0,8000000,32,115000,14800000,75,68,79,78,74,70,71.8,77.4,76.6,68,71.66666667,75,223
+169595,https://cdn.sofifa.org/players/10/19/169595.png,D. Rose,Danny Rose,Tottenham Hotspur,England,80,0,12000000,27,86000,22200000,76,62,73,77,79,76,68,68.4,75.8,71.4,73.5,81,224
+171833,https://cdn.sofifa.org/players/10/19/171833.png,D. Sturridge,Daniel Andre Sturridge,Liverpool,England,80,0,15500000,28,125000,28700000,75,81,68,78,23,63,72,70.2,73.2,70.6,65.5,15.66666667,225
+177604,https://cdn.sofifa.org/players/10/19/177604.png,Nacho Monreal,Ignacio Monreal Eraso,Arsenal,Spain,80,0,8000000,32,99000,15200000,69,60,71,74,80,70,67,67.4,72.8,69.6,70.83333333,81,226
+183427,https://cdn.sofifa.org/players/10/19/183427.png,F. Delph,Fabian Delph,Manchester City,England,80,0,11500000,28,120000,21300000,73,70,76,80,77,74,67.8,72,80.2,75.2,75,79,227
+186547,https://cdn.sofifa.org/players/10/19/186547.png,M. Musacchio,Mateo Pablo Musacchio,Milan,Argentina,80,0,12500000,27,85000,21300000,70,47,63,67,83,74,55.2,59.4,71.4,67.4,67.83333333,82.66666667,228
+197083,https://cdn.sofifa.org/players/10/19/197083.png,D. Caligiuri,Daniel Caligiuri,FC Schalke 04,Italy,80,0,10500000,30,35000,17900000,78,76,78,80,71,75,73.8,74.8,77,78,77.33333333,70,229
+199434,https://cdn.sofifa.org/players/10/19/199434.png,D. Tadi_,Du_an Tadi_,Ajax,Serbia,80,0,14500000,29,24000,20300000,68,69,81,83,39,63,74,80.6,75.2,65.8,66.33333333,35.33333333,230
+201862,https://cdn.sofifa.org/players/10/19/201862.png,M. Rojo,Faustino Marcos Alberto Rojo,Manchester United,Argentina,80,0,12000000,28,120000,22200000,69,60,69,66,79,78,64.6,65.6,68.6,74,70.16666667,79.33333333,231
+226161,https://cdn.sofifa.org/players/10/19/226161.png,Marcos Llorente,Marcos Llorente Moreno,Real Madrid,Spain,79,8,16000000,23,110000,36000000,54,48,73,70,76,71,56.8,64.4,60.2,65.4,67.83333333,75.66666667,232
+236632,https://cdn.sofifa.org/players/10/19/236632.png,David Neres,David Neres Campos,Ajax,Brazil,79,8,18500000,21,18000,29600000,88,72,70,85,35,63,68.4,67.6,84.6,66.2,64.5,32,233
+205192,https://cdn.sofifa.org/players/10/19/205192.png,Denis Su_rez,Denis Su_rez Fern_ndez,FC Barcelona,Spain,79,7,17500000,24,120000,39400000,77,72,80,83,59,59,68.6,79.4,78.8,67,66.5,56.66666667,234
+231478,https://cdn.sofifa.org/players/10/19/231478.png,L. Mart_nez,Lautaro Mart_nez,Inter,Argentina,79,7,18000000,20,54000,34200000,83,77,60,78,37,81,69.4,62.2,77.8,77.8,65.33333333,31,235
+221660,https://cdn.sofifa.org/players/10/19/221660.png,V. Lindel_f,Victor Nilsson Lindel_f,Manchester United,Sweden,79,6,14500000,23,91000,29700000,72,48,71,69,78,76,57.8,68.8,68.8,69.8,65.33333333,78,236
+205988,https://cdn.sofifa.org/players/10/19/205988.png,L. Shaw,Luke Shaw,Manchester United,England,79,5,14000000,22,91000,27000000,83,54,72,79,76,74,65.4,69.2,77.8,67.6,69.33333333,77.33333333,237
+211688,https://cdn.sofifa.org/players/10/19/211688.png,Gay_,Jos_ Lu_s Gay_ Pe_a,Valencia CF,Spain,79,5,14000000,23,31000,30500000,87,61,76,78,72,68,66.4,71.8,83.4,63.8,68.33333333,76,238
+213296,https://cdn.sofifa.org/players/10/19/213296.png,N. Bentaleb,Nabil Bentaleb,FC Schalke 04,Algeria,79,5,16500000,23,32000,29300000,65,71,76,81,68,72,65.6,74.2,70.4,72.4,77,65.33333333,239
+199189,https://cdn.sofifa.org/players/10/19/199189.png,R. Barkley,Ross Barkley,Chelsea,England,79,3,16000000,24,89000,30800000,70,72,76,81,54,73,68.2,77,67.4,73,69,54.33333333,240
+211256,https://cdn.sofifa.org/players/10/19/211256.png,N. Tagliafico,Nicol_s Alejandro Tagliafico,Ajax,Argentina,79,3,13000000,25,19000,19200000,86,55,68,75,77,73,62.4,63.2,80.8,70.6,67.5,78,241
+199767,https://cdn.sofifa.org/players/10/19/199767.png,M. van Ginkel,Marco van Ginkel,Chelsea,Netherlands,79,2,15000000,25,98000,28900000,66,77,77,75,70,73,75.6,73.8,67.6,76,75.83333333,71,242
+208620,https://cdn.sofifa.org/players/10/19/208620.png,Omar Mascarell,Omar Mascarell Gonz_lez,FC Schalke 04,Spain,79,2,13000000,25,32000,23100000,64,62,72,76,75,76,59,73.4,69.2,74.6,70.83333333,75.33333333,243
+216150,https://cdn.sofifa.org/players/10/19/216150.png,D. Zappacosta,Davide Zappacosta,Chelsea,Italy,79,2,12500000,26,94000,24100000,77,66,72,75,76,74,70.4,70.2,74.8,73.8,69.66666667,77.66666667,244
+189271,https://cdn.sofifa.org/players/10/19/189271.png,F. Coquelin,Francis Coquelin,Valencia CF,France,79,1,12000000,27,36000,26100000,71,58,68,76,78,81,60.8,64.6,74,73,71.33333333,79,245
+199304,https://cdn.sofifa.org/players/10/19/199304.png,Danilo,Danilo Luiz da Silva,Manchester City,Brazil,79,1,12000000,26,110000,23100000,75,70,73,74,77,77,70.6,74.6,72.6,78.2,71.83333333,77.66666667,246
+176944,https://cdn.sofifa.org/players/10/19/176944.png,M. Fellaini,Marouane Fellaini-Bakkioui,Manchester United,Belgium,79,0,11500000,30,120000,21300000,45,72,71,71,75,86,75.2,66,52.4,74,77.33333333,69.66666667,247
+185431,https://cdn.sofifa.org/players/10/19/185431.png,N. Kalini_,Nikola Kalini_,Atl_tico Madrid,Croatia,79,0,12000000,30,60000,24600000,70,76,64,74,42,73,73.6,63.4,69,70.4,68.5,35.33333333,248
+186132,https://cdn.sofifa.org/players/10/19/186132.png,D. Drinkwater,Danny Drinkwater,Chelsea,England,79,0,12500000,28,110000,23100000,63,67,76,76,72,71,66.8,75.8,69.4,70,72.16666667,73.66666667,249
+186832,https://cdn.sofifa.org/players/10/19/186832.png,K. Asamoah,Kwadwo Asamoah,Inter,Ghana,79,0,9500000,29,62000,16200000,77,68,78,82,78,77,71.6,76.4,80,78.2,75.66666667,79.33333333,250
+190815,https://cdn.sofifa.org/players/10/19/190815.png,D. Blind,Daley Blind,Ajax,Netherlands,79,0,10000000,28,21000,14000000,57,56,79,75,78,75,67.8,75.8,69.2,71.6,71.83333333,77.66666667,251
+193584,https://cdn.sofifa.org/players/10/19/193584.png,G. Burgstaller,Guido Burgstaller,FC Schalke 04,Austria,79,0,12500000,29,41000,21300000,68,80,66,73,38,84,75,62,69.2,80.2,68.16666667,30.66666667,252
+200641,https://cdn.sofifa.org/players/10/19/200641.png,Y. Konoplyanka,Yevhen Konoplyanka,FC Schalke 04,Ukraine,79,0,12500000,28,41000,21300000,87,76,76,81,31,62,67.6,80,82.6,69.2,64.66666667,27.33333333,253
+231281,https://cdn.sofifa.org/players/10/19/231281.png,T. Alexander-Arnold,Trent Alexander-Arnold,Liverpool,England,78,10,14000000,19,36000,28700000,80,60,75,72,74,69,63,73.4,76.8,68,67.66666667,75,254
+222509,https://cdn.sofifa.org/players/10/19/222509.png,Dani Ceballos,Daniel Ceballos Fern_ndez,Real Madrid,Spain,78,9,16000000,21,92000,36000000,64,61,76,80,68,64,61.2,74.6,70,58.4,71.83333333,71,255
+230938,https://cdn.sofifa.org/players/10/19/230938.png,F. Kessi_,Franck Yannick Kessi_,Milan,Ivory Coast,78,9,16000000,21,22000,,73,71,71,77,78,88,67.2,67.2,73.8,83.2,78.33333333,77.33333333,256
+208268,https://cdn.sofifa.org/players/10/19/208268.png,B. Cristante,Bryan Cristante,Roma,Italy,78,8,15000000,23,26000,,60,70,76,76,69,68,71.2,73.2,62.6,69.4,68.33333333,68.33333333,257
+225161,https://cdn.sofifa.org/players/10/19/225161.png,Vallejo,Jes_s Vallejo L_zaro,Real Madrid,Spain,78,8,13500000,21,81000,30400000,71,41,56,62,79,70,54.2,51.6,71.2,58.4,57,79.33333333,258
+228702,https://cdn.sofifa.org/players/10/19/228702.png,F. de Jong,Frenkie de Jong,Ajax,Netherlands,78,8,15000000,21,15000,24000000,73,56,79,85,66,65,67.4,76.8,76.8,64.6,66.66666667,62,259
+223959,https://cdn.sofifa.org/players/10/19/223959.png,L. Torreira,Lucas Torreira Di Pascua,Arsenal,Uruguay,78,7,14500000,22,81000,30500000,77,62,77,80,73,73,60.8,75,81.6,71,70.66666667,76.33333333,260
+232097,https://cdn.sofifa.org/players/10/19/232097.png,A. Harit,Amine Harit,FC Schalke 04,Morocco,78,7,14500000,21,27000,27600000,83,64,74,85,44,46,64,73.8,83,58.6,59.66666667,42,261
+208450,https://cdn.sofifa.org/players/10/19/208450.png,Andreas Pereira,Andreas Hugo Hoelgebaum Pereira,Manchester United,Brazil,78,6,14000000,22,91000,28700000,76,74,78,79,65,70,71.8,79.2,76.2,71,70.16666667,65,262
+228251,https://cdn.sofifa.org/players/10/19/228251.png,L. Pellegrini,Lorenzo Pellegrini,Roma,Italy,78,6,14000000,22,51000,26600000,75,66,76,76,72,71,70.8,68.6,72.2,72,69.83333333,72,263
+206058,https://cdn.sofifa.org/players/10/19/206058.png,M. De Sciglio,Mattia De Sciglio,Juventus,Italy,78,4,11000000,25,78000,19000000,77,46,69,75,77,74,58.8,66.2,76.4,70,65.83333333,78.33333333,264
+211454,https://cdn.sofifa.org/players/10/19/211454.png,M. Elneny,Mohamed Naser Elsayed Elneny,Arsenal,Egypt,78,4,11500000,25,81000,22700000,59,62,73,70,73,75,59.8,69.2,64,74.4,70.66666667,74.33333333,265
+212153,https://cdn.sofifa.org/players/10/19/212153.png,R. Gagliardini,Roberto Gagliardini,Inter,Italy,78,4,11500000,24,46000,20400000,68,63,71,74,77,75,67.4,66.6,66.8,73.8,68.16666667,77,266
+201939,https://cdn.sofifa.org/players/10/19/201939.png,C. Piccini,Cristiano Piccini,Valencia CF,Italy,78,3,10500000,25,31000,22800000,75,41,66,74,76,79,54.8,62,71,67.2,64.16666667,77.33333333,267
+204259,https://cdn.sofifa.org/players/10/19/204259.png,S. Arias,Santiago Arias Naranjo,Atl_tico Madrid,Colombia,78,3,10500000,26,46000,22300000,85,53,69,75,74,77,61.8,61.6,80.2,69.4,70,75.66666667,268
+213400,https://cdn.sofifa.org/players/10/19/213400.png,D. Laxalt,Diego Laxalt,Milan,Uruguay,78,2,12500000,25,76000,22200000,88,63,74,78,62,71,61.6,70,82,71.6,66.16666667,65.33333333,269
+198200,https://cdn.sofifa.org/players/10/19/198200.png,B. Stambouli,Benjamin Stambouli,FC Schalke 04,France,78,1,10000000,27,30000,17800000,64,55,66,70,79,76,56.8,60.6,67.8,70.4,69.33333333,78.66666667,270
+159287,https://cdn.sofifa.org/players/10/19/159287.png,R. Montolivo,Riccardo Montolivo,Milan,Italy,78,0,4200000,33,73000,7100000,51,64,82,80,73,66,68,81,63.6,72.2,72,72.66666667,271
+168312,https://cdn.sofifa.org/players/10/19/168312.png,I. Abate,Ignazio Abate,Milan,Italy,78,0,7000000,31,73000,11900000,81,52,72,77,76,72,63.6,67.8,77.6,69.6,70,76.66666667,272
+172962,https://cdn.sofifa.org/players/10/19/172962.png,V. Moses,Victor Moses,Chelsea,Nigeria,78,0,11000000,27,105000,20400000,78,70,74,81,73,71,71,73.8,78,72.6,72.16666667,73,273
+177983,https://cdn.sofifa.org/players/10/19/177983.png,C. Zapata,Cristian Eduardo Zapata Valencia,Milan,Colombia,78,0,7000000,31,73000,11900000,66,32,46,56,82,77,43,46,62.2,63,56.16666667,82,274
+184069,https://cdn.sofifa.org/players/10/19/184069.png,S. Wagner,Sandro Wagner,FC Bayern M_nchen,Germany,78,0,10000000,30,72000,16500000,59,79,53,64,37,82,71.8,56.2,58.4,74,62.5,29.33333333,275
+200752,https://cdn.sofifa.org/players/10/19/200752.png,Juan Jesus,Juan Guilherme Nunes Jesus,Roma,Brazil,78,0,8500000,27,54000,14500000,77,33,53,60,78,82,47,51,70.4,68.4,57.83333333,78,276
+238794,https://cdn.sofifa.org/players/10/19/238794.png,Vin_cius J_nior,Vin_cius Jos_ de Oliveira J_nior,Real Madrid,Brazil,77,15,17500000,17,66000,46800000,93,72,64,81,29,60,65.8,68.8,85.6,69.8,58.83333333,25,277
+237715,https://cdn.sofifa.org/players/10/19/237715.png,P. Cutrone,Patrick Cutrone,Milan,Italy,77,12,16000000,20,62000,30400000,76,74,56,74,29,71,69.2,58.8,74.2,71.4,58.33333333,24.66666667,278
+225100,https://cdn.sofifa.org/players/10/19/225100.png,J. Gomez,Joe Gomez,Liverpool,England,77,10,12500000,21,57000,25600000,77,30,60,67,77,75,51.8,51.6,71.6,56.4,56.83333333,78,279
+228881,https://cdn.sofifa.org/players/10/19/228881.png,D. Calabria,Davide Calabria,Milan,Italy,77,10,12500000,21,49000,23800000,79,43,68,73,76,71,60.8,66.8,78.6,64.8,61,77.33333333,280
+234236,https://cdn.sofifa.org/players/10/19/234236.png,P. Schick,Patrik Schick,Roma,Czech Republic,77,10,14500000,22,53000,27600000,73,74,69,80,36,66,71.2,71,74.2,69.2,61.16666667,31,281
+235889,https://cdn.sofifa.org/players/10/19/235889.png,C. _nder,Cengiz _nder,Roma,Turkey,77,10,14500000,20,46000,27600000,81,74,73,81,37,50,70,74.8,80,64.2,55.16666667,35.33333333,282
+213666,https://cdn.sofifa.org/players/10/19/213666.png,R. Loftus-Cheek,Ruben Loftus-Cheek,Chelsea,England,77,8,13000000,22,76000,26700000,71,62,75,79,61,78,64,71.8,69.6,67.6,69.5,62.33333333,283
+215399,https://cdn.sofifa.org/players/10/19/215399.png,R_ben Vezo,R_ben Miguel Nunes Vezo,Valencia CF,Portugal,77,6,10500000,24,26000,24200000,68,49,63,60,77,74,58.8,55,69.4,68.2,61.16666667,77,284
+220253,https://cdn.sofifa.org/players/10/19/220253.png,Munir,Munir El Haddadi,FC Barcelona,Spain,77,6,12500000,22,115000,28100000,79,77,69,80,33,60,74,69.8,76.8,69.6,56.33333333,30.33333333,285
+213135,https://cdn.sofifa.org/players/10/19/213135.png,D. Origi,Divock Origi,Liverpool,Belgium,77,5,12000000,23,83000,23100000,78,74,67,74,27,72,72,60.6,73.4,72.4,63.5,19.33333333,286
+220925,https://cdn.sofifa.org/players/10/19/220925.png,A. Sch_pf,Alessandro Sch_pf,FC Schalke 04,Austria,77,5,12000000,24,27000,21300000,77,71,70,79,58,70,66.4,70.2,77.2,71.8,65.83333333,57,287
+202884,https://cdn.sofifa.org/players/10/19/202884.png,L. Spinazzola,Leonardo Spinazzola,Juventus,Italy,77,3,11000000,25,80000,19000000,80,64,70,79,75,76,66.2,66.8,73.8,74.6,68.83333333,76.33333333,288
+190531,https://cdn.sofifa.org/players/10/19/190531.png,E. Mangala,Eliaquim Mangala,Manchester City,France,77,2,8500000,27,90000,16400000,63,42,55,50,77,82,53.6,49.8,62.2,70.8,59.83333333,78.33333333,289
+205566,https://cdn.sofifa.org/players/10/19/205566.png,Alberto Moreno,Alberto Moreno P_rez,Liverpool,Spain,77,2,9000000,25,76000,17300000,86,65,68,78,70,72,61.4,63.6,83,76.4,66.5,72.33333333,290
+148803,https://cdn.sofifa.org/players/10/19/148803.png,K. Huntelaar,Klaas-Jan Huntelaar,Ajax,Netherlands,77,0,4700000,34,20000,6600000,54,78,63,65,35,70,74.2,62.6,61.2,72.2,64.83333333,29.33333333,291
+157304,https://cdn.sofifa.org/players/10/19/157304.png,T. Vermaelen,Thomas Vermaelen,FC Barcelona,Belgium,77,0,5000000,32,110000,10300000,65,61,69,59,76,72,66.4,64.4,63.6,73.4,62.66666667,77,292
+162131,https://cdn.sofifa.org/players/10/19/162131.png,Llorente,Fernando Javier Llorente Torres,Tottenham Hotspur,Spain,77,0,5500000,33,82000,10200000,31,76,61,66,33,71,73.4,58.6,41.4,65.6,67,24.66666667,293
+168607,https://cdn.sofifa.org/players/10/19/168607.png,Rafinha,M_rcio Rafael Ferreira de Souza,FC Bayern M_nchen,Brazil,77,0,4900000,32,57000,8100000,78,46,72,77,73,64,57.2,70.6,78,55.8,70.66666667,77.33333333,294
+186146,https://cdn.sofifa.org/players/10/19/186146.png,D. Welbeck,Daniel Nii Tackie Mensah Welbeck,Arsenal,England,77,0,9500000,27,95000,18100000,80,74,70,77,43,75,73.8,68.6,75,74.8,67.16666667,39.33333333,295
+189390,https://cdn.sofifa.org/players/10/19/189390.png,B. Oczipka,Bastian Oczipka,FC Schalke 04,Germany,77,0,6500000,29,30000,11100000,72,59,73,72,75,77,64.6,70.4,69,74,70,77,296
+192073,https://cdn.sofifa.org/players/10/19/192073.png,A. Bertolacci,Andrea Bertolacci,Milan,Italy,77,0,9000000,27,75000,15300000,71,69,76,78,70,70,69.4,73.6,73.6,72.6,69.83333333,70,297
+206225,https://cdn.sofifa.org/players/10/19/206225.png,D. Cheryshev,Denis Cheryshev,Valencia CF,Russia,77,0,9500000,27,31000,,78,78,73,78,53,66,70.4,71.8,77,74.4,66.83333333,50.33333333,298
+227535,https://cdn.sofifa.org/players/10/19/227535.png,R. Bentancur,Rodrigo Bentancur Colm_n,Juventus,Uruguay,76,12,13500000,21,58000,25000000,70,54,71,80,70,71,58.6,66.6,69.6,69.8,65.83333333,70.33333333,299
+229594,https://cdn.sofifa.org/players/10/19/229594.png,A. _ori_,Ante _ori_,Roma,Croatia,76,12,14000000,21,38000,26600000,71,66,73,80,34,54,60.2,73,76.2,63.2,58.5,33,300
+222357,https://cdn.sofifa.org/players/10/19/222357.png,B. Embolo,Breel-Donald Embolo,FC Schalke 04,Switzerland,76,10,12500000,21,24000,23800000,78,71,67,75,34,76,67.6,67.6,74,73,65,25.33333333,301
+222400,https://cdn.sofifa.org/players/10/19/222400.png,H. Winks,Harry Winks,Tottenham Hotspur,England,76,9,11500000,22,61000,23600000,67,58,75,75,64,63,59.8,71.2,71,61.8,65.66666667,65,302
+228687,https://cdn.sofifa.org/players/10/19/228687.png,K. Dolberg,Kasper Dolberg,Ajax,Denmark,76,9,12000000,20,15000,19200000,75,78,61,75,29,67,66.2,68.8,72.6,76.2,58.66666667,23.66666667,303
+213655,https://cdn.sofifa.org/players/10/19/213655.png,A. Iwobi,Alex Iwobi,Arsenal,Nigeria,76,8,11500000,22,71000,24200000,77,62,70,81,28,64,59,63.6,75.6,61.8,57.16666667,26.33333333,304
+216349,https://cdn.sofifa.org/players/10/19/216349.png,A. Halilovi_,Alen Halilovi_,Milan,Croatia,76,7,11000000,22,61000,20900000,76,64,77,80,45,44,60.4,75.8,78.4,58,65.16666667,41.33333333,305
+221363,https://cdn.sofifa.org/players/10/19/221363.png,D. van de Beek,Donny van de Beek,Ajax,Netherlands,76,7,11000000,21,13000,17600000,65,75,74,74,61,75,70.4,70.8,66.8,77.2,71,57,306
+230578,https://cdn.sofifa.org/players/10/19/230578.png,M. Diakhaby,Mouctar Diakhaby,Valencia CF,France,76,7,9500000,21,20000,21900000,58,37,49,52,76,79,49.6,43.8,53,62.6,61.16666667,72.66666667,307
+209620,https://cdn.sofifa.org/players/10/19/209620.png,A. Baba,Abdul Rahman Baba,FC Schalke 04,Ghana,76,6,9000000,23,64000,,78,50,66,76,73,69,61.2,61.8,76.6,63.6,62.16666667,74.66666667,308
+222558,https://cdn.sofifa.org/players/10/19/222558.png,R. Karsdorp,Rick Karsdorp,Roma,Netherlands,76,6,9000000,23,41000,17100000,87,63,72,74,72,74,67.6,69,75.6,73.4,67.16666667,74.33333333,309
+229148,https://cdn.sofifa.org/players/10/19/229148.png,Dalbert,Dalbert Henrique Chagas Estev_o,Inter,Brazil,76,5,8500000,24,41000,15100000,91,58,70,77,71,71,62.4,67.2,80,67.6,65.16666667,73.33333333,310
+210736,https://cdn.sofifa.org/players/10/19/210736.png,Emerson,Emerson Palmieri dos Santos,Chelsea,Italy,76,4,8500000,23,64000,16400000,77,59,66,77,70,61,59.6,69.2,75.6,70,63.83333333,70,311
+226537,https://cdn.sofifa.org/players/10/19/226537.png,V. Janssen,Vincent Janssen,Tottenham Hotspur,Netherlands,76,4,10000000,24,67000,19300000,62,77,57,70,32,73,65.6,55.4,65,72.2,65.83333333,28,312
+198640,https://cdn.sofifa.org/players/10/19/198640.png,Z. Labyad,Zakaria Labyad,Ajax,Morocco,76,3,9500000,25,18000,14000000,76,74,75,79,36,57,68.6,78.4,76.6,71.2,59.83333333,34,313
+208004,https://cdn.sofifa.org/players/10/19/208004.png,J. Veltman,Jo_l Veltman,Ajax,Netherlands,76,1,7500000,26,16000,11100000,66,49,65,66,78,77,60.8,55.4,68.6,65.6,64.66666667,78,314
+172143,https://cdn.sofifa.org/players/10/19/172143.png,L. Sch_ne,Lasse Sch_ne,Ajax,Denmark,76,0,6000000,32,18000,8400000,55,74,81,76,61,62,74.8,80.8,64.6,73,72.66666667,55,315
+182168,https://cdn.sofifa.org/players/10/19/182168.png,A. Ranocchia,Andrea Ranocchia,Inter,Italy,76,0,5500000,30,47000,9400000,35,32,57,58,78,73,46.6,50.6,42,61,55.16666667,77,316
+183394,https://cdn.sofifa.org/players/10/19/183394.png,M. Sissoko,Moussa Sissoko,Tottenham Hotspur,France,76,0,7500000,28,73000,13900000,76,72,74,74,64,84,71,75.2,70.2,81,71.83333333,62,317
+184392,https://cdn.sofifa.org/players/10/19/184392.png,M. Darmian,Matteo Darmian,Manchester United,Italy,76,0,6000000,28,88000,11100000,73,58,68,75,77,69,65.4,63.8,75,66.4,66.5,78,318
+186200,https://cdn.sofifa.org/players/10/19/186200.png,F. Borini,Fabio Borini,Milan,Italy,76,0,8000000,27,76000,13600000,76,74,72,78,45,71,74.2,70.4,74.8,72.8,67.66666667,41.33333333,319
+186405,https://cdn.sofifa.org/players/10/19/186405.png,F. Di Santo,Franco Mat_as Di Santo,FC Schalke 04,Argentina,76,0,7500000,29,33000,12800000,72,75,69,74,45,74,72.6,67,69,71.4,69.5,39.33333333,320
+198946,https://cdn.sofifa.org/players/10/19/198946.png,D. D'Ambrosio,Danilo D'Ambrosio,Inter,Italy,76,0,6000000,29,50000,10200000,72,55,65,71,77,72,62.6,66,72.8,69.2,67.16666667,78,321
+236920,https://cdn.sofifa.org/players/10/19/236920.png,J. Kluivert,Justin Kluivert,Roma,Netherlands,75,11,11000000,19,28000,20900000,89,72,67,80,37,64,65.2,68.8,82.8,69.8,61.33333333,35.33333333,322
+230767,https://cdn.sofifa.org/players/10/19/230767.png,Renato Sanches,Renato J_nior Luz Sanches,FC Bayern M_nchen,Portugal,75,9,10000000,20,41000,18500000,77,72,69,77,70,81,66.6,70.2,77.2,80.6,71.83333333,69,323
+232008,https://cdn.sofifa.org/players/10/19/232008.png,Lato,Antonio Latorre Grueso,Valencia CF,Spain,75,9,9000000,20,19000,20700000,80,54,70,73,71,63,65,65.2,76.4,60.2,61.5,72.66666667,324
+244253,https://cdn.sofifa.org/players/10/19/244253.png,U. Ra_i_,Uro_ Ra_i_,Valencia CF,Serbia,75,9,9000000,20,19000,20700000,60,66,68,68,73,75,64.6,65.8,58.6,73.4,65.66666667,73.66666667,325
+223329,https://cdn.sofifa.org/players/10/19/223329.png,A. Conti,Andrea Conti,Milan,Italy,75,4,8500000,24,58000,15100000,79,59,70,75,73,69,66.6,65.6,76,63.2,67,74.66666667,326
+202087,https://cdn.sofifa.org/players/10/19/202087.png,J. Geis,Johannes Geis,FC Schalke 04,Germany,75,3,7000000,24,22000,12400000,43,64,80,64,73,73,68.6,75.4,59.2,74.8,72.5,72.33333333,327
+189484,https://cdn.sofifa.org/players/10/19/189484.png,D. Santon,Davide Santon,Roma,Italy,75,0,5500000,27,45000,9400000,73,58,70,72,74,72,63.4,66.8,67.4,72.4,66.66666667,76,328
+228295,https://cdn.sofifa.org/players/10/19/228295.png,R. Holding,Rob Holding,Arsenal,England,74,9,7500000,22,56000,15800000,60,34,55,64,74,73,49.2,47.2,62.8,58.2,58.5,74.33333333,329
+230065,https://cdn.sofifa.org/players/10/19/230065.png,S. Serdar,Suat Serdar,FC Schalke 04,Germany,74,9,8500000,21,19000,16200000,66,62,68,74,69,76,62,61.8,68.2,72.2,68.16666667,68,330
+212125,https://cdn.sofifa.org/players/10/19/212125.png,L. Markovi_,Lazar  Markovi_,Liverpool,Serbia,74,3,7000000,24,62000,13500000,84,66,70,80,41,49,66.6,72.8,80.8,61,62,36,331
+201139,https://cdn.sofifa.org/players/10/19/201139.png,I. Strini_,Ivan Strini_,Milan,Croatia,74,0,4100000,30,56000,6900000,70,56,67,71,74,74,60.8,65.4,69.8,69,66.83333333,75.33333333,332
+237692,https://cdn.sofifa.org/players/10/19/237692.png,P. Foden,Philip Foden,Manchester City,England,73,15,8000000,18,36000,19800000,74,61,71,75,55,55,58.2,67.8,77.8,59.2,63.16666667,53.66666667,333
+241461,https://cdn.sofifa.org/players/10/19/241461.png,Ferr_n Torres,Ferr_n Torres Garc_a,Valencia CF,Spain,73,13,7000000,18,12000,19100000,76,66,68,75,32,56,63.2,65.4,69.8,61,54.33333333,28.66666667,334
+239053,https://cdn.sofifa.org/players/10/19/239053.png,F. Valverde,Federico Valverde,Real Madrid,Uruguay,73,10,6000000,19,42000,13500000,67,68,69,68,62,57,56,64.2,63.6,64.8,58.33333333,62,335
+219591,https://cdn.sofifa.org/players/10/19/219591.png,S. Simi_,Stefan Simi_,Milan,Czech Republic,73,8,5000000,23,44000,9500000,50,27,48,55,75,73,40.2,45.2,53.8,57.4,48.83333333,75.33333333,336
+231838,https://cdn.sofifa.org/players/10/19/231838.png,M. W_ber,Maximilian W_ber,Ajax,Austria,73,8,5000000,20,9000,8000000,74,37,61,64,72,77,53.6,53.4,68.4,62.2,61.16666667,73,337
+208088,https://cdn.sofifa.org/players/10/19/208088.png,Sergi Samper,Sergi Samper Monta__,FC Barcelona,Spain,73,7,4800000,23,69000,10800000,43,46,72,67,69,63,53.8,65.2,56.8,59.2,64.5,69.33333333,338
+200473,https://cdn.sofifa.org/players/10/19/200473.png,S. Skrzybski,Steven Skrzybski,FC Schalke 04,Germany,73,3,5000000,25,25000,8900000,84,72,65,75,33,63,67,66.4,80.8,71.6,59.5,27,339
+236610,https://cdn.sofifa.org/players/10/19/236610.png,M. Kean,Moise Kean,Juventus,Italy,72,15,6500000,18,32000,14800000,77,70,50,73,29,66,61,58,73.2,67.8,53.66666667,23.66666667,340
+234574,https://cdn.sofifa.org/players/10/19/234574.png,Diogo Dalot,Jos_ Diogo Dalot Teixeira,Manchester United,Portugal,72,12,4700000,19,26000,9600000,73,58,65,73,69,75,61,64.8,70.8,72.6,64.33333333,69,341
+238744,https://cdn.sofifa.org/players/10/19/238744.png,W. McKennie,Weston McKennie,FC Schalke 04,United States,72,12,5500000,19,10000,10500000,66,60,68,71,71,81,60.8,64.2,67.8,75.6,69,69.66666667,342
+239718,https://cdn.sofifa.org/players/10/19/239718.png,H. Band_,Hassane Band_,Ajax,Burkina Faso,72,12,5500000,19,7000,8800000,84,70,60,76,31,64,64,55.4,79.2,68.8,57.16666667,25,343
+219998,https://cdn.sofifa.org/players/10/19/219998.png,J. Mauri,Jos_ Mauri,Milan,Italy,72,7,4300000,22,43000,8200000,70,53,72,79,64,53,57.8,71.2,78,62.8,64.83333333,66,344
+203038,https://cdn.sofifa.org/players/10/19/203038.png,Lucas Piazon,Gustavo Lucas Domingues Piazon,Chelsea,Brazil,72,5,4200000,24,55000,8000000,69,72,72,73,34,55,69.2,73,69.8,60,61.66666667,35.33333333,345
+216380,https://cdn.sofifa.org/players/10/19/216380.png,D. Sinkgraven,Daley Sinkgraven,Ajax,Netherlands,72,3,3300000,22,10000,4800000,80,59,73,78,66,62,67.2,72,75.8,63,69.33333333,64.33333333,346
+225782,https://cdn.sofifa.org/players/10/19/225782.png,A. Maitland-Niles,Ainsley Maitland-Niles,Arsenal,England,71,13,4500000,20,38000,11400000,82,59,68,72,60,65,55.2,61.6,75.6,63.4,64.66666667,61,347
+227813,https://cdn.sofifa.org/players/10/19/227813.png,O. Zinchenko,Oleksandr Zinchenko,Manchester City,Ukraine,71,10,3300000,21,38000,6800000,68,65,77,76,67,59,66.4,75.6,73.2,66,68,67.33333333,348
+237238,https://cdn.sofifa.org/players/10/19/237238.png,S. McTominay,Scott McTominay,Manchester United,Scotland,71,10,3800000,21,43000,7800000,64,61,68,66,69,74,64.8,58.2,61.2,69.4,68.33333333,67,349
+243780,https://cdn.sofifa.org/players/10/19/243780.png,Kangin Lee,____ Kangin Lee,Valencia CF,Korea Republic,70,16,3500000,17,8000,9600000,68,66,68,76,27,46,59.6,75.6,71.8,56.8,51.33333333,24,350
+237221,https://cdn.sofifa.org/players/10/19/237221.png,J. Foyth,Juan Marcos Foyth,Tottenham Hotspur,Argentina,70,15,3500000,20,25000,8800000,71,45,55,68,70,65,52.6,54.4,71.8,60,55.33333333,69.66666667,351
+225539,https://cdn.sofifa.org/players/10/19/225539.png,D. Solanke,Dominic Solanke,Liverpool,England,70,14,3900000,20,37000,9700000,69,68,61,72,24,62,64.8,60.4,67.2,66.8,53.5,19,352
+233113,https://cdn.sofifa.org/players/10/19/233113.png,Ale__,Carles Ale__ Castillo,FC Barcelona,Spain,70,13,3400000,20,44000,9000000,77,63,68,75,61,61,54.6,68.6,75,62,65.33333333,60,353
+241854,https://cdn.sofifa.org/players/10/19/241854.png,P. Schuurs,Perr Schuurs,Ajax,Netherlands,70,12,2600000,18,4000,4100000,67,61,58,61,69,71,52.8,65.4,62.4,73.6,52.66666667,70.33333333,354
+233301,https://cdn.sofifa.org/players/10/19/233301.png,R. Nissen Kristensen,Rasmus Nissen Kristensen,Ajax,Denmark,70,9,2400000,20,6000,3800000,76,56,64,66,66,76,60,60.4,69,71.2,64,65.33333333,355
+234203,https://cdn.sofifa.org/players/10/19/234203.png,C. Eiting,Carel Eiting,Ajax,Netherlands,70,9,2700000,20,7000,4400000,65,51,72,69,62,68,54.2,69,68,65,62.66666667,63,356
+236401,https://cdn.sofifa.org/players/10/19/236401.png,N. Mazraoui,Noussair Mazraoui,Ajax,Morocco,70,9,2400000,20,6000,3800000,78,57,66,70,64,68,60.8,60.4,71.6,67,59.33333333,64.33333333,357
+231410,https://cdn.sofifa.org/players/10/19/231410.png,Brahim D_az,Brahim D_az,Manchester City,Spain,69,17,2200000,18,24000,5400000,74,65,61,76,29,45,52.8,61.8,75,58.8,51.5,29,358
+234679,https://cdn.sofifa.org/players/10/19/234679.png,P. Sandler,Philippe Sandler,Manchester City,Netherlands,69,12,1700000,21,28000,3400000,67,39,62,69,69,67,43.4,68.8,63,63.4,57,69.66666667,359
+237156,https://cdn.sofifa.org/players/10/19/237156.png,M. Wagu_,Moussa Wagu_,FC Barcelona,Senegal,69,12,1600000,19,20000,3600000,81,40,58,71,64,60,50.4,51.6,78.4,57.8,59.66666667,65.66666667,360
+227927,https://cdn.sofifa.org/players/10/19/227927.png,K. Walker-Peters,Kyle Walker-Peters,Tottenham Hotspur,England,69,11,1600000,21,21000,3200000,74,36,60,69,68,64,51.4,55.6,71.8,54.2,56.66666667,69.66666667,361
+237502,https://cdn.sofifa.org/players/10/19/237502.png,D. Johnsen,Dennis Johnsen,Ajax,Norway,69,10,1700000,20,7000,2700000,81,65,65,74,31,59,60.6,65,74.6,62.6,51.33333333,31,362
+200841,https://cdn.sofifa.org/players/10/19/200841.png,C. Jenkinson,Carl Jenkinson,Arsenal,England,69,2,1000000,26,34000,2000000,66,50,65,67,69,68,60,62.2,65.2,61.8,62.83333333,71.33333333,363
+111206,https://cdn.sofifa.org/players/10/19/111206.png,S. Riether,Sascha Riether,FC Schalke 04,Germany,69,0,230000,35,9000,391000,52,54,66,70,73,61,60.8,61.2,63.6,60,64.16666667,73.33333333,364
+242816,https://cdn.sofifa.org/players/10/19/242816.png,Riqui Puig,Ricard Puig Mart_,FC Barcelona,Spain,68,20,1800000,18,21000,5600000,65,56,71,69,52,46,59.8,64.4,65.4,52.2,56.66666667,54.33333333,365
+240740,https://cdn.sofifa.org/players/10/19/240740.png,C. Hudson-Odoi,Callum Hudson-Odoi,Chelsea,England,68,19,1800000,17,18000,4400000,83,59,64,72,30,61,59,64.8,74.6,59.4,52.33333333,30.33333333,366
+242000,https://cdn.sofifa.org/players/10/19/242000.png,K. Mavropanos,Konstantinos Mavropanos,Arsenal,Greece,68,15,1800000,20,21000,4500000,56,33,42,43,69,72,42,40,52.6,56.2,48.16666667,72,367
+226050,https://cdn.sofifa.org/players/10/19/226050.png,C. Teuchert,Cedric Teuchert,FC Schalke 04,Germany,68,13,1700000,21,9000,4100000,80,65,54,71,29,65,60.8,55.6,74.6,65.8,53,23.66666667,368
+229865,https://cdn.sofifa.org/players/10/19/229865.png,_scar Pinchi,_scar Francisco Garc_a Quintela,Atl_tico Madrid,Spain,68,11,1500000,22,15000,3400000,71,68,64,71,43,48,61.6,62.4,70.2,57.8,52.16666667,41,369
+239378,https://cdn.sofifa.org/players/10/19/239378.png,K. Sierhuis,Kaj Sierhuis,Ajax,Netherlands,68,10,1500000,20,6000,2400000,60,73,51,58,29,72,61.8,54.6,59.6,74.2,54.83333333,23.33333333,370
+222576,https://cdn.sofifa.org/players/10/19/222576.png,Pleguezuelo,Julio Jos_ Pleguezuelo Selva,Arsenal,Spain,68,9,1200000,21,21000,2500000,70,35,57,68,68,65,51,55.8,68.4,54.8,53.5,67.66666667,371
+216860,https://cdn.sofifa.org/players/10/19/216860.png,V. _ern_,V_clav _ern_,Ajax,Czech Republic,68,7,1300000,20,6000,2000000,84,62,59,74,27,46,57,64.4,76.2,52.6,52.83333333,22,372
+239250,https://cdn.sofifa.org/players/10/19/239250.png,Abel Ruiz,Abel Ruiz Ortega,FC Barcelona,Spain,67,16,1600000,18,21000,4200000,70,67,52,64,28,63,59,51.8,65,66.6,48.83333333,23,373
+238346,https://cdn.sofifa.org/players/10/19/238346.png,H. Mendyl,Hamza Mendyl,FC Schalke 04,Morocco,67,13,1300000,20,6000,3000000,78,43,58,66,63,66,50.8,55.8,70.8,58,59.5,64.33333333,374
+236496,https://cdn.sofifa.org/players/10/19/236496.png,M. Guendouzi,Matt_o Guendouzi,Arsenal,France,67,12,1300000,19,13000,2700000,63,60,68,66,63,65,61.2,65.2,64.6,66.4,61.16666667,61.33333333,375
+222535,https://cdn.sofifa.org/players/10/19/222535.png,L. Orejuela,Luis Orejuela,Ajax,Colombia,67,6,875000,22,5000,1400000,80,45,59,65,62,72,51.6,52.4,72.2,66.8,56.66666667,64.33333333,376
+240507,https://cdn.sofifa.org/players/10/19/240507.png,A. Gomes,Angel Gomes,Manchester United,England,66,21,1400000,17,13000,4000000,72,61,64,70,26,36,58.4,66.8,74.6,50,52.66666667,23,377
+245035,https://cdn.sofifa.org/players/10/19/245035.png,C. Gomes,Claudio Gomes,Manchester City,France,66,18,1100000,17,10000,2800000,73,56,61,63,65,63,54.4,59.2,71.4,60.2,58.16666667,66.33333333,378
+240915,https://cdn.sofifa.org/players/10/19/240915.png,Miranda,Juan Miranda Gonz_lez,FC Barcelona,Spain,66,15,1200000,18,12000,3200000,67,39,57,63,65,58,48,55.2,63.2,54.6,55.66666667,66.66666667,379
+224019,https://cdn.sofifa.org/players/10/19/224019.png,Pedro Chirivella,Pedro Chirivella Burgos,Liverpool,Spain,66,9,975000,21,17000,2000000,65,46,64,66,57,69,52.2,59.2,66.4,58.4,64.33333333,56.66666667,380
+239361,https://cdn.sofifa.org/players/10/19/239361.png,D. de Wit,Dani de Wit,Ajax,Netherlands,66,9,975000,20,4000,1600000,66,67,65,64,57,72,66.6,60.2,65.4,70.6,65.16666667,53.33333333,381
+233510,https://cdn.sofifa.org/players/10/19/233510.png,T. Chong,Tahith Chong,Manchester United,Netherlands,65,20,1100000,18,13000,3200000,77,56,63,65,39,65,59,62.8,68,60.4,56,38,382
+243237,https://cdn.sofifa.org/players/10/19/243237.png,L. Pellegrini,Luca Pellegrini,Roma,Italy,65,18,1000000,19,5000,2400000,73,35,51,62,64,52,49,48.4,66,46.6,53.5,66,383
+237698,https://cdn.sofifa.org/players/10/19/237698.png,C. Gribbin,Callum Gribbin,Manchester United,England,65,17,1200000,19,11000,2900000,69,58,65,67,35,59,56,67,65.2,61.2,55.33333333,32.33333333,384
+225105,https://cdn.sofifa.org/players/10/19/225105.png,Cristo Gonz_lez,Cristo Gonz_lez P_rez,Real Madrid,Spain,65,15,1200000,20,23000,3200000,71,65,61,68,39,54,61,61.8,68.8,60.4,54.16666667,36.66666667,385
+232250,https://cdn.sofifa.org/players/10/19/232250.png,L. Amos,Luke Amos,Tottenham Hotspur,England,65,14,1200000,21,13000,2900000,62,50,65,62,60,65,50.2,58.4,64.2,63.6,58.16666667,63,386
+239368,https://cdn.sofifa.org/players/10/19/239368.png,M. Bakker,Mitchell Bakker,Ajax,Netherlands,65,14,1000000,18,2000,2000000,78,39,56,64,64,64,51,55,70.6,55.8,54.66666667,63.33333333,387
+239380,https://cdn.sofifa.org/players/10/19/239380.png,N. Lang,Noa Lang,Ajax,Netherlands,65,12,950000,19,3000,1500000,75,57,63,70,48,67,58.2,61.2,72.4,63.8,63,45.66666667,388
+240513,https://cdn.sofifa.org/players/10/19/240513.png,E. Hamilton,Ethan Hamilton,Manchester United,Scotland,65,12,925000,19,11000,1900000,57,62,63,62,57,68,60,58.8,59.6,66.6,59.33333333,54.66666667,389
+216699,https://cdn.sofifa.org/players/10/19/216699.png,G. Zelalem,Gedion Zelalem,Arsenal,United States,65,10,875000,21,15000,1800000,60,50,66,66,44,55,55.4,64.8,63.6,53.4,54,46,390
+237032,https://cdn.sofifa.org/players/10/19/237032.png,Javi Jim_nez,Javier Jim_nez Garc_a,Valencia CF,Spain,65,8,700000,21,5000,1600000,52,30,50,44,67,54,44.6,39.6,58.2,46.8,50.83333333,67.33333333,391
+236988,https://cdn.sofifa.org/players/10/19/236988.png,E. Nketiah,Edward Nketiah,Arsenal,England,64,20,975000,19,10000,2800000,84,62,47,66,20,54,52,50.8,76.6,60.4,48.83333333,16,392
+243275,https://cdn.sofifa.org/players/10/19/243275.png,L. Mai,Lars Lukas Mai,FC Bayern M_nchen,Germany,64,20,850000,18,5000,2300000,54,30,40,41,65,70,40.6,37.2,50.6,56.4,46.83333333,64.66666667,393
+241042,https://cdn.sofifa.org/players/10/19/241042.png,O. Skipp,Oliver Skipp,Tottenham Hotspur,England,64,19,800000,17,6000,2000000,65,42,57,59,59,65,47.2,54.8,61.8,57.8,51.66666667,59,394
+238067,https://cdn.sofifa.org/players/10/19/238067.png,N. Zaniolo,Nicol_ Zaniolo,Roma,Italy,64,18,925000,18,5000,2200000,63,55,59,63,51,62,52,59.4,59.4,56.8,58.33333333,47.33333333,395
+244106,https://cdn.sofifa.org/players/10/19/244106.png,Pascu,Jos_ Pascual Alba Seva,Valencia CF,Spain,64,18,925000,18,3000,2500000,65,56,64,63,56,48,57.4,61.2,62.8,56.2,50.33333333,53.33333333,396
+237139,https://cdn.sofifa.org/players/10/19/237139.png,T. Oakley-Boothe,Tashan Oakley-Boothe,Tottenham Hotspur,England,64,17,925000,18,7000,2300000,65,41,63,60,59,61,47.6,61.2,57.8,52.8,58.83333333,59.66666667,397
+239502,https://cdn.sofifa.org/players/10/19/239502.png,W. Bianda,William Bianda,Roma,France,64,17,850000,18,4000,2000000,62,26,43,49,64,68,38.2,42.2,55.2,53.4,46.5,64.66666667,398
+245287,https://cdn.sofifa.org/players/10/19/245287.png,Sergio L_pez,Sergio L_pez Galache,Real Madrid,Spain,64,16,875000,19,9000,2300000,79,55,56,65,60,56,56,56.2,72.2,59,53.83333333,60.66666667,399
+237160,https://cdn.sofifa.org/players/10/19/237160.png,R. Williams,Ro-Shaun Williams,Manchester United,England,64,15,875000,19,8000,2200000,73,33,47,52,63,60,43.4,45.4,63,49,49,65.66666667,400
+241467,https://cdn.sofifa.org/players/10/19/241467.png,F. Feuillassier,Francisco Feuillassier,Real Madrid,Argentina,64,15,1000000,20,19000,2700000,60,69,57,67,29,57,60.4,53.8,62.2,62.6,47.5,26,401
+245279,https://cdn.sofifa.org/players/10/19/245279.png,Reguil_n,Sergio Reguil_n Rodr_guez,Real Madrid,Spain,64,14,900000,21,15000,2400000,64,30,47,57,64,52,41.2,41.8,63,47.4,51.83333333,66.33333333,402
+229495,https://cdn.sofifa.org/players/10/19/229495.png,C. Nwakali,Chidiebere Chijioke Nwakali,Manchester City,Nigeria,64,13,850000,21,15000,2100000,75,60,60,65,61,69,55.6,56.2,73.2,69.2,58.33333333,62.66666667,403
+238743,https://cdn.sofifa.org/players/10/19/238743.png,H. Wright,Haji Wright,FC Schalke 04,United States,64,13,875000,20,5000,2000000,66,63,48,59,23,64,55.4,49,56.8,65.4,46.33333333,19.33333333,404
+241470,https://cdn.sofifa.org/players/10/19/241470.png,_lex Centelles,Alejandro Centelles Plaza,Valencia CF,Spain,64,13,700000,18,3000,1900000,66,48,65,66,59,64,58.4,62.6,61.4,58.6,54.83333333,59.66666667,405
+243155,https://cdn.sofifa.org/players/10/19/243155.png,Manu Hernando,Jos_ Manuel Hernando Riol,Real Madrid,Spain,64,12,700000,19,9000,1600000,62,39,50,59,65,62,47,51.2,61.6,55.8,47,67.33333333,406
+245238,https://cdn.sofifa.org/players/10/19/245238.png,Javi S_nchez,Javier S_nchez de Felipe,Real Madrid,Spain,64,10,650000,21,15000,1500000,58,27,43,39,64,64,38.2,36,54,54.8,42.5,63.66666667,407
+235735,https://cdn.sofifa.org/players/10/19/235735.png,E. Ampadu,Ethan Ampadu,Chelsea,Wales,63,23,725000,17,6000,2100000,60,30,54,58,63,62,40.4,48,59.6,54.2,49.16666667,63.66666667,408
+244024,https://cdn.sofifa.org/players/10/19/244024.png,O. Batista Meier,Oliver Batista Meier,FC Bayern M_nchen,Germany,63,20,725000,17,5000,1900000,74,57,50,72,29,44,48.4,56.4,71.6,49.6,46.66666667,30,409
+243357,https://cdn.sofifa.org/players/10/19/243357.png,F. Evina,Franck Evina,FC Bayern M_nchen,Germany,63,18,725000,17,5000,1600000,78,61,55,67,34,65,55.8,60.4,70.6,64.2,48,33.33333333,410
+245290,https://cdn.sofifa.org/players/10/19/245290.png,De la Fuente,Adri_n de la Fuente,Real Madrid,Spain,63,17,725000,19,8000,1900000,59,39,50,55,62,67,47,48.4,59,58,51.5,61.33333333,411
+226131,https://cdn.sofifa.org/players/10/19/226131.png,M. Peeters,Mink Peeters,Real Madrid,Netherlands,63,16,800000,20,15000,2100000,70,51,61,66,45,53,53.4,64.6,69,53.6,55.16666667,45,412
+245764,https://cdn.sofifa.org/players/10/19/245764.png,Ricardo Campos,Ricardo Da Costa Campos,Valencia CF,Portugal,63,16,750000,18,7000,,74,54,60,66,22,53,53.8,58.6,70.6,53.8,43.33333333,21,413
+238446,https://cdn.sofifa.org/players/10/19/238446.png,Tachi,Alberto Rodr_guez Bar_,Atl_tico Madrid,Spain,63,15,725000,20,5000,1900000,63,29,42,46,66,56,44.4,39.2,53.4,49.4,40.5,65.33333333,414
+243315,https://cdn.sofifa.org/players/10/19/243315.png,Dani G_mez,Daniel G_mez Alc_n,Real Madrid,Spain,63,14,800000,19,12000,2100000,65,61,43,63,26,56,53,49.4,64.4,58.8,40.66666667,22.66666667,415
+240510,https://cdn.sofifa.org/players/10/19/240510.png,J. Bohui,Joshua Bohui,Manchester United,England,63,13,700000,19,10000,1700000,77,60,49,64,22,64,53.4,49.4,70.8,61,54,17.33333333,416
+225557,https://cdn.sofifa.org/players/10/19/225557.png,R. Poole,Regan Poole,Manchester United,Wales,63,11,550000,20,11000,1100000,67,31,51,59,61,70,42.2,49.6,66.2,56.6,50.83333333,62,417
+243080,https://cdn.sofifa.org/players/10/19/243080.png,Carlos Isaac,Carlos Isaac Mu_oz Obejero,Atl_tico Madrid,Spain,63,11,550000,20,5000,1200000,67,28,46,56,64,62,44.2,42,61.2,47.4,45.33333333,63.66666667,418
+237169,https://cdn.sofifa.org/players/10/19/237169.png,C. Bramall,Cohen Bramall,Arsenal,England,63,10,500000,22,12000,1100000,88,45,56,64,56,59,47.2,55,74.4,59.4,51.16666667,57.33333333,419
+234152,https://cdn.sofifa.org/players/10/19/234152.png,Sito,Andr_s Pascual Santonja,Valencia CF,Spain,63,6,500000,21,4000,1200000,56,60,61,69,43,43,54.2,65.8,60,49.4,53.5,42.33333333,420
+238460,https://cdn.sofifa.org/players/10/19/238460.png,R. Brewster,Rhian Brewster,Liverpool,England,62,22,700000,18,8000,2000000,77,60,50,62,19,53,54.4,51.6,73.4,57.8,47.16666667,16,421
+245037,https://cdn.sofifa.org/players/10/19/245037.png,Eric Garc_a,Eric Garc_a Martret,Manchester City,Spain,62,20,550000,17,6000,1600000,56,34,48,55,62,59,42.8,49.2,57.4,50.6,49.16666667,62,422
+236600,https://cdn.sofifa.org/players/10/19/236600.png,J. Tanganga,Japhet Tanganga,Tottenham Hotspur,England,62,18,600000,19,5000,1500000,68,22,43,51,59,60,37.6,39.8,59.2,50,40.83333333,62.66666667,423
+238075,https://cdn.sofifa.org/players/10/19/238075.png,M. Taylor-Crossdale,Martell  Taylor-Crossdale,Chelsea,England,62,18,625000,18,8000,1500000,69,63,51,65,25,56,54.2,53.2,63.6,60.2,47.83333333,22,424
+245491,https://cdn.sofifa.org/players/10/19/245491.png,P. Beruatto,Pietro Beruatto,Juventus,Italy,62,16,575000,19,5000,1300000,65,27,51,53,64,62,43.2,48.4,59.4,55.8,46.83333333,66,425
+223963,https://cdn.sofifa.org/players/10/19/223963.png,C. Humphreys-Grant,Cameron Humphreys-Grant,Manchester City,England,62,15,600000,19,6000,1500000,66,32,48,50,60,67,42.6,42.8,62.6,57.8,47.5,61.33333333,426
+233426,https://cdn.sofifa.org/players/10/19/233426.png,A. Georgiou,Anthony Georgiou,Tottenham Hotspur,Cyprus,62,13,575000,21,9000,1400000,71,45,59,65,54,52,52.2,57.4,66,49,52.33333333,54,427
+242980,https://cdn.sofifa.org/players/10/19/242980.png,M. Shabani,Meritan Shabani,FC Bayern M_nchen,Germany,62,13,575000,19,5000,1300000,64,52,63,65,34,51,53,59,60.2,53.2,49.66666667,35,428
+245714,https://cdn.sofifa.org/players/10/19/245714.png,_lex Blanco,Alejandro Blanco S_nchez,Valencia CF,Spain,62,13,575000,19,3000,1600000,68,55,61,64,36,48,52,57.2,65.2,54.2,50,32.66666667,429
+246061,https://cdn.sofifa.org/players/10/19/246061.png,A. Solano,Andr_s Solano,Atl_tico Madrid,Colombia,62,10,425000,20,5000,956000,66,35,53,62,59,56,44.8,49.8,66.4,52.2,50.66666667,59.66666667,430
+245992,https://cdn.sofifa.org/players/10/19/245992.png,B. Gilmour,Billy Gilmour,Chelsea,Scotland,61,23,550000,17,7000,1600000,61,49,65,65,45,42,56.4,61.6,66,48,55.66666667,44.33333333,431
+240273,https://cdn.sofifa.org/players/10/19/240273.png,E. Smith Rowe,Emile Smith Rowe,Arsenal,England,61,22,550000,17,8000,1600000,76,61,54,64,21,47,52.6,58.2,67.2,55.8,46.66666667,19,432
+233051,https://cdn.sofifa.org/players/10/19/233051.png,L. Bolton,Luke Bolton,Manchester City,England,61,21,575000,18,7000,1600000,80,50,57,61,55,60,50.8,54,71.2,55.6,57.5,52.33333333,433
+242434,https://cdn.sofifa.org/players/10/19/242434.png,C. Jones,Curtis Jones,Liverpool,England,61,21,550000,17,7000,1600000,63,56,60,66,47,55,55.4,58.4,65.8,55.2,56.66666667,47.66666667,434
+243055,https://cdn.sofifa.org/players/10/19/243055.png,Rafael Camacho,Rafael Euclides Soares Camacho,Liverpool,Portugal,61,20,525000,18,7000,1500000,68,56,57,64,42,44,54.6,57,66.6,49.2,52.16666667,41.33333333,435
+243652,https://cdn.sofifa.org/players/10/19/243652.png,Borja Garc_s,Borja Garc_s Moreno,Atl_tico Madrid,Spain,61,19,525000,18,4000,1400000,56,63,40,54,29,47,52,39.6,60.4,57.4,45.66666667,23.66666667,436
+237329,https://cdn.sofifa.org/players/10/19/237329.png,J. Willock,Joseph Willock,Arsenal,England,61,18,525000,18,7000,1300000,71,44,58,63,53,61,45.4,56.6,67.6,56.8,56.66666667,53.33333333,437
+241588,https://cdn.sofifa.org/players/10/19/241588.png,Toni Moya,Antonio Moya Vega,Atl_tico Madrid,Spain,61,16,550000,20,5000,1500000,65,53,58,64,51,53,49.6,55.4,64.6,53.4,56,51,438
+235736,https://cdn.sofifa.org/players/10/19/235736.png,K. Sterling,Kazaiah Sterling,Tottenham Hotspur,England,61,14,550000,19,7000,1400000,76,64,41,60,23,51,50.6,51.4,70.4,58,44.33333333,21.33333333,439
+228053,https://cdn.sofifa.org/players/10/19/228053.png,S. Harrison,Shayon Harrison,Tottenham Hotspur,England,61,13,500000,20,10000,1200000,74,58,46,62,21,60,52.4,46,70,59.4,47.66666667,16.33333333,440
+240926,https://cdn.sofifa.org/players/10/19/240926.png,N. Phillips,Nathaniel Phillips,Liverpool,England,61,13,425000,21,9000,1100000,52,29,43,38,60,65,40.2,36.4,51.8,51.8,47,59.66666667,441
+245100,https://cdn.sofifa.org/players/10/19/245100.png,M. Awoudja,Maxime Awoudja,FC Bayern M_nchen,Germany,61,11,375000,20,6000,694000,67,34,46,40,59,66,45.4,38,57.4,56.6,46.66666667,59,442
+236940,https://cdn.sofifa.org/players/10/19/236940.png,Dar_o Poveda,Dar_o Poveda Romera,Atl_tico Madrid,Spain,61,10,425000,21,6000,956000,59,61,52,60,24,47,56.4,51.4,59,56.4,46,21.33333333,443
+240906,https://cdn.sofifa.org/players/10/19/240906.png,B. Adekanye,Bobby Adekanye,Liverpool,Netherlands,60,19,450000,19,7000,1100000,74,56,52,64,30,58,54.4,53.4,68,56.8,45.66666667,30,444
+244938,https://cdn.sofifa.org/players/10/19/244938.png,Montero,Francisco Montero Rubio,Atl_tico Madrid,Spain,60,19,400000,19,2000,1100000,57,26,36,38,61,60,36.4,30.2,57,49.6,43.33333333,60.66666667,445
+240334,https://cdn.sofifa.org/players/10/19/240334.png,Z. Medley,Zechariah Medley,Arsenal,England,60,18,375000,17,5000,947000,51,30,38,40,63,59,38.4,35,53,51.8,45,64.66666667,446
+223977,https://cdn.sofifa.org/players/10/19/223977.png,A. Nemane,Aaron Nemane,Manchester City,France,60,14,450000,20,11000,1100000,81,50,47,65,19,43,44,46.6,73.6,47.2,46.16666667,16.66666667,447
+245986,https://cdn.sofifa.org/players/10/19/245986.png,Cristian Rodr_guez,Cristian Rodr_guez P_rez,Atl_tico Madrid,Spain,60,10,325000,22,5000,731000,58,46,60,61,49,60,48.8,55,61.8,58.2,56.83333333,47,448
+241160,https://cdn.sofifa.org/players/10/19/241160.png,G. McEachran,George McEachran,Chelsea,England,59,22,350000,17,6000,998000,62,41,62,61,45,44,49.4,58.2,64.2,43.4,52.33333333,49.33333333,449
+240559,https://cdn.sofifa.org/players/10/19/240559.png,Obama,Salom_n Asumo Obama Ondo,Atl_tico Madrid,Spain,59,20,325000,18,4000,991000,62,61,49,62,25,48,55,48.6,65,55.2,44.16666667,22.66666667,450
+245999,https://cdn.sofifa.org/players/10/19/245999.png,Mollejo,V_ctor Mollejo Carpintero,Atl_tico Madrid,Spain,59,20,300000,17,4000,915000,73,54,53,62,26,45,50,54.4,71,49.6,47.83333333,25.66666667,451
+242085,https://cdn.sofifa.org/players/10/19/242085.png,M. Virtue-Thick,Matthew Virtue-Thick,Liverpool,England,59,12,250000,21,8000,513000,69,48,55,59,55,56,48,51.4,70.6,57,53,57.33333333,452
+241159,https://cdn.sofifa.org/players/10/19/241159.png,M. Guehi,Marc Guehi,Chelsea,England,58,20,230000,17,4000,656000,59,30,38,40,59,58,38.6,35.2,55.2,50.2,40.16666667,59.66666667,453
+233442,https://cdn.sofifa.org/players/10/19/233442.png,J. Osei-Tutu,Jordi Osei-Tutu,Arsenal,England,58,18,240000,19,4000,606000,76,36,43,52,53,62,41,41.8,66,51.6,49.5,54,454
